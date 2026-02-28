@@ -5,15 +5,13 @@
 #include <iomanip>
 #include <algorithm>
 #include <cmath>
-#define STEPS 200
+#define STEPS 20
 #define GRIDWIDTH 15
 using namespace std;
 
 struct region;
 void simulateSensors(vector<vector<region>> &map);
-void propagateFlood(vector<vector<region>> &map);
-void updateHeatwave(vector<vector<region>> &map);
-void updateQuakes(vector<vector<region>> &map);
+void evaluateAlerts(vector<vector<region>> &map);
 int randomNum(int low, int high);
 void print(vector<vector<region>> &map);
 void printGrid(vector<vector<region>> &map);
@@ -136,125 +134,101 @@ void simulateSensors(vector<vector<region>> &map)
                 currElement.temperature = randomNum(0, 60);
                 currElement.tremor = randomNum(0, 10);
             }
-            if (currElement.rainfall > 475 || currElement.tremor == 10 || currElement.temperature > 50)
-                currElement.severity = 3;
-            else if (currElement.rainfall > 425 || currElement.tremor > 9 || currElement.temperature > 45)
-                currElement.severity = 2;
-            else if (currElement.rainfall > 300 || currElement.tremor > 8 || currElement.temperature > 40)
-                currElement.severity = 1;
-            else
-                currElement.severity = 0;
-
-            if (currElement.rainfall > 300)
-                currElement.alert = (alertType)(currElement.alert | FLOOD);
-            if (currElement.temperature > 40)
-                currElement.alert = (alertType)(currElement.alert | HEATWAVE);
-            if (currElement.tremor > 8)
-                currElement.alert = (alertType)(currElement.alert | EARTHQUAKE);
         }
     }
 }
 
-void propagateFlood(vector<vector<region>> &map)
+void evaluateAlerts(vector<vector<region>> &map)
 {
-    int dx[8] = {1, -1, 0, 0, 1, -1, -1, 1};
-    int dy[8] = {0, 0, 1, -1, 1, -1, 1, -1};
+    static int callCount = 0; 
+    callCount++;
 
-    auto newMap = map;
-    int n = map.size();
-    int m = map[0].size();
-
-    for (int i = 0; i < n; i++)
-    {
-        for (int j = 0; j < m; j++)
-        {
-            if (map[i][j].alert & FLOOD)
-            {
-                int bias = randomNum(-100, 70);
-                newMap[i][j].rainfall = clamp(map[i][j].rainfall + bias, 0, 500);
-                if (newMap[i][j].rainfall < 275)
-                    newMap[i][j].alert = (alertType)(newMap[i][j].alert & ~FLOOD);
-                for (int k = 0; k < 8; k++)
-                {
-                    int newX = i + dx[k];
-                    int newY = j + dy[k];
-
-                    if (newX >= 0 && newX < n &&
-                        newY >= 0 && newY < m)
-                    {
-                        if (map[newX][newY].rainfall > 200)
-                        {
-                            newMap[newX][newY].alert =
-                                (alertType)(newMap[newX][newY].alert | FLOOD);
-                        }
-                    }
-                }
-            }
-        }
-    }
-    map = newMap;
-}
-
-void updateHeatwave(vector<vector<region>> &map)
-{
-    int dx[8] = {1, -1, 0, 0, 1, -1, -1, 1};
-    int dy[8] = {0, 0, 1, -1, 1, -1, 1, -1};
-    auto newMap = map;
     int m = map.size();
     int n = map[0].size();
-    for (int i = m - 1; i >= 0; i--)
-    {
-        for (int j = n - 1; j >= 0; j--)
-        {
-            int tempLimit = 50;
-            if (newMap[i][j].alert & FLOOD)
-            {
-                newMap[i][j].alert = (alertType)(newMap[i][j].alert & ~HEATWAVE);
-            }
-            if (newMap[i][j].temperature > 40 &&
-                !(newMap[i][j].alert & FLOOD))
-                newMap[i][j].alert = (alertType)(newMap[i][j].alert | HEATWAVE);
-            if (newMap[i][j].rainfall < 200)
-                newMap[i][j].alert = (alertType)(newMap[i][j].alert & ~HEATWAVE);
-            int bias = randomNum(-10, 20);
-            if (map[i][j].rainfall > 200)
-                tempLimit = 25;
-            if (map[i][j].alert & HEATWAVE)
-            {
+    int dx[3] = {-1, 0, -1};
+    int dy[3] = {0, 1, 1};
+    auto newMap = map;
 
-                for (int k = 0; k < 8; k++)
+    bool anyFlood = false, anyHeat = false;
+
+    for (int i = 0; i < m; i++)
+    {
+        for (int j = 0; j < n; j++)
+        {
+            if (map[i][j].alert & FLOOD)
+                anyFlood = true;
+            if (map[i][j].alert & HEATWAVE)
+                anyHeat = true;
+
+            newMap[i][j].tremor = clamp((int)map[i][j].tremor + randomNum(-10, 5), 0, 10);
+
+            if (map[i][j].alert & FLOOD)
+            {
+                newMap[i][j].rainfall = clamp((int)map[i][j].rainfall + randomNum(-100, 70), 0, 500);
+                for (int k = 0; k < 3; k++)
                 {
-                    int newX = i + dx[k];
-                    int newY = j + dy[k];
-                    if (newX >= 0 && newX < m &&
-                        newY >= 0 && newY < n)
-                    {
-                        if ((map[newX][newY].temperature > 38) && !(map[newX][newY].alert & FLOOD))
-                        {
-                            newMap[newX][newY].alert = (alertType)(newMap[newX][newY].alert | HEATWAVE);
-                        }
-                    }
+                    int nX = i + dx[k], nY = j + dy[k];
+                    if (nX >= 0 && nX < m && nY >= 0 && nY < n && map[nX][nY].rainfall > 200)
+                        newMap[nX][nY].alert = (alertType)(newMap[nX][nY].alert | FLOOD);
                 }
             }
-            newMap[i][j].temperature = clamp(newMap[i][j].temperature + bias, 0, tempLimit);
+
+            int tempLimit = (map[i][j].rainfall > 200) ? 25 : 50;
+            newMap[i][j].temperature = clamp((int)map[i][j].temperature + randomNum(-10, 20), 0, tempLimit);
+            if (map[i][j].alert & HEATWAVE)
+            {
+                for (int k = 0; k < 3; k++)
+                {
+                    int nX = i + dx[k], nY = j + dy[k];
+                    if (nX >= 0 && nX < m && nY >= 0 && nY < n && map[nX][nY].temperature > 38 && !(map[nX][nY].alert & FLOOD))
+                        newMap[nX][nY].alert = (alertType)(newMap[nX][nY].alert | HEATWAVE);
+                }
+            }
+
+            if (newMap[i][j].rainfall > 475 || newMap[i][j].tremor == 10 || newMap[i][j].temperature > 50)
+                newMap[i][j].severity = 3;
+            else if (newMap[i][j].rainfall > 425 || newMap[i][j].tremor > 9 || newMap[i][j].temperature > 45)
+                newMap[i][j].severity = 2;
+            else if (newMap[i][j].rainfall > 300 || newMap[i][j].tremor > 8 || newMap[i][j].temperature > 40)
+                newMap[i][j].severity = 1;
+            else
+                newMap[i][j].severity = 0;
+
+            if (newMap[i][j].rainfall > 300)
+                newMap[i][j].alert = (alertType)(newMap[i][j].alert | FLOOD);
+            else if (newMap[i][j].rainfall < 275)
+                newMap[i][j].alert = (alertType)(newMap[i][j].alert & ~FLOOD);
+
+            if (newMap[i][j].temperature > 40 && !(newMap[i][j].alert & FLOOD))
+                newMap[i][j].alert = (alertType)(newMap[i][j].alert | HEATWAVE);
+            if (newMap[i][j].rainfall > 200 || newMap[i][j].temperature < 38)
+                newMap[i][j].alert = (alertType)(newMap[i][j].alert & ~HEATWAVE);
+
+            if (newMap[i][j].tremor > 8)
+                newMap[i][j].alert = (alertType)(newMap[i][j].alert | EARTHQUAKE);
+            else
+                newMap[i][j].alert = (alertType)(newMap[i][j].alert & ~EARTHQUAKE);
         }
     }
+
+    if (callCount % 10 == 0)
+    {
+        if (!anyFlood)
+        {
+            int rI = randomNum(0, m - 1), rJ = randomNum(0, n - 1);
+            newMap[rI][rJ].rainfall = 400; // Force spawn
+            newMap[rI][rJ].alert = (alertType)(newMap[rI][rJ].alert | FLOOD);
+        }
+        if (!anyHeat)
+        {
+            int rI = randomNum(0, m - 1), rJ = randomNum(0, n - 1);
+            newMap[rI][rJ].temperature = 45; // Force spawn
+            newMap[rI][rJ].alert = (alertType)(newMap[rI][rJ].alert | HEATWAVE);
+        }
+    }
+
     map = newMap;
 }
-
-void updateQuakes(vector<vector<region>> &map)
-{
-    for (vector<region> &i : map)
-        for (region &j : i)
-        {
-            j.tremor = clamp(j.tremor + randomNum(-10, 5), 0, 10);
-            if ((j.alert & EARTHQUAKE) && j.tremor < 8)
-                j.alert = (alertType)(j.alert & ~EARTHQUAKE);
-            if (j.tremor > 8)
-                j.alert = (alertType)(j.alert | EARTHQUAKE);
-        }
-}
-
 void print(vector<vector<region>> &map)
 {
     for (vector<region> i : map)
@@ -279,8 +253,6 @@ int main()
     {
         cout << "STEP :" << i + 1 << endl;
         printGrid(map);
-        propagateFlood(map);
-        updateHeatwave(map);
-        updateQuakes(map);
+        evaluateAlerts(map);
     }
 }
