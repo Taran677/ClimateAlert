@@ -47,6 +47,6 @@ int main()
     }
 
     reporter.finalizeReport();
-    cout << "\nSimulation Cycle Complete. 😵" << endl;
+    cout << "\nSimulation Cycle Complete." << endl;
     return 0;
 }
