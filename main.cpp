@@ -5,12 +5,15 @@
 #include <iomanip>
 #include <algorithm>
 #include <cmath>
-#define STEPS 20
+#define STEPS 200
+#define GRIDWIDTH 15
 using namespace std;
 
 struct region;
 void simulateSensors(vector<vector<region>> &map);
 void propagateFlood(vector<vector<region>> &map);
+void updateHeatwave(vector<vector<region>> &map);
+void updateQuakes(vector<vector<region>> &map);
 int randomNum(int low, int high);
 void print(vector<vector<region>> &map);
 void printGrid(vector<vector<region>> &map);
@@ -58,7 +61,7 @@ void printGrid(vector<vector<region>> &map)
         for (region &j : i)
         {
             if (j.alert == NONE)
-                cout << setw(4) << '.' << j.temperature;
+                cout << setw(4) << '.';
             else
             {
                 alertType alrt = j.alert;
@@ -69,7 +72,7 @@ void printGrid(vector<vector<region>> &map)
                     printValue += "H";
                 if (alrt & EARTHQUAKE)
                     printValue += "E";
-                cout << setw(4) << printValue << j.temperature;
+                cout << setw(4) << printValue;
             }
         }
         cout << endl;
@@ -133,11 +136,11 @@ void simulateSensors(vector<vector<region>> &map)
                 currElement.temperature = randomNum(0, 60);
                 currElement.tremor = randomNum(0, 10);
             }
-            if (currElement.rainfall > 475 || currElement.tremor > 9 || currElement.temperature > 50)
+            if (currElement.rainfall > 475 || currElement.tremor == 10 || currElement.temperature > 50)
                 currElement.severity = 3;
-            else if (currElement.rainfall > 425 || currElement.tremor > 8 || currElement.temperature > 45)
+            else if (currElement.rainfall > 425 || currElement.tremor > 9 || currElement.temperature > 45)
                 currElement.severity = 2;
-            else if (currElement.rainfall > 300 || currElement.tremor > 7 || currElement.temperature > 40)
+            else if (currElement.rainfall > 300 || currElement.tremor > 8 || currElement.temperature > 40)
                 currElement.severity = 1;
             else
                 currElement.severity = 0;
@@ -146,7 +149,7 @@ void simulateSensors(vector<vector<region>> &map)
                 currElement.alert = (alertType)(currElement.alert | FLOOD);
             if (currElement.temperature > 40)
                 currElement.alert = (alertType)(currElement.alert | HEATWAVE);
-            if (currElement.tremor > 7)
+            if (currElement.tremor > 8)
                 currElement.alert = (alertType)(currElement.alert | EARTHQUAKE);
         }
     }
@@ -199,15 +202,21 @@ void updateHeatwave(vector<vector<region>> &map)
     auto newMap = map;
     int m = map.size();
     int n = map[0].size();
-    int tempLimit = 50;
     for (int i = m - 1; i >= 0; i--)
     {
         for (int j = n - 1; j >= 0; j--)
         {
+            int tempLimit = 50;
+            if (newMap[i][j].alert & FLOOD)
+            {
+                newMap[i][j].alert = (alertType)(newMap[i][j].alert & ~HEATWAVE);
+            }
+            if (newMap[i][j].temperature > 40 &&
+                !(newMap[i][j].alert & FLOOD))
+                newMap[i][j].alert = (alertType)(newMap[i][j].alert | HEATWAVE);
             if (newMap[i][j].rainfall < 200)
                 newMap[i][j].alert = (alertType)(newMap[i][j].alert & ~HEATWAVE);
             int bias = randomNum(-10, 20);
-            newMap[i][j].temperature = clamp(newMap[i][j].temperature + bias, 0, tempLimit);
             if (map[i][j].rainfall > 200)
                 tempLimit = 25;
             if (map[i][j].alert & HEATWAVE)
@@ -220,16 +229,30 @@ void updateHeatwave(vector<vector<region>> &map)
                     if (newX >= 0 && newX < m &&
                         newY >= 0 && newY < n)
                     {
-                        if ((map[newX][newY].temperature > 35) && !(map[newX][newY].alert & FLOOD))
+                        if ((map[newX][newY].temperature > 38) && !(map[newX][newY].alert & FLOOD))
                         {
                             newMap[newX][newY].alert = (alertType)(newMap[newX][newY].alert | HEATWAVE);
                         }
                     }
                 }
             }
+            newMap[i][j].temperature = clamp(newMap[i][j].temperature + bias, 0, tempLimit);
         }
     }
     map = newMap;
+}
+
+void updateQuakes(vector<vector<region>> &map)
+{
+    for (vector<region> &i : map)
+        for (region &j : i)
+        {
+            j.tremor = clamp(j.tremor + randomNum(-10, 5), 0, 10);
+            if ((j.alert & EARTHQUAKE) && j.tremor < 8)
+                j.alert = (alertType)(j.alert & ~EARTHQUAKE);
+            if (j.tremor > 8)
+                j.alert = (alertType)(j.alert | EARTHQUAKE);
+        }
 }
 
 void print(vector<vector<region>> &map)
@@ -250,7 +273,7 @@ void print(vector<vector<region>> &map)
 
 int main()
 {
-    vector<vector<region>> map(10, vector<region>(10));
+    vector<vector<region>> map(GRIDWIDTH, vector<region>(GRIDWIDTH));
     simulateSensors(map);
     for (int i = 0; i < STEPS; i++)
     {
@@ -258,5 +281,6 @@ int main()
         printGrid(map);
         propagateFlood(map);
         updateHeatwave(map);
+        updateQuakes(map);
     }
 }
