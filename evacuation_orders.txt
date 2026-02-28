@@ -1,0 +1,2200 @@
+!!! EMERGENCY EVACUATION PROTOCOL LOG !!!
+==========================================
+
+[ DAY 1 ALERT ]
+EVACUATE [0,1] - Reason: Proximity to HEAT 
+EVACUATE [1,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,3] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,6] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,7] - Reason: Proximity to HEAT 
+EVACUATE [1,9] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [0,12] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,13] - Reason: Proximity to QUAKE 
+EVACUATE [2,0] - Reason: Proximity to HEAT 
+EVACUATE [2,1] - Reason: Proximity to HEAT 
+EVACUATE [2,3] - Reason: Proximity to FLOOD 
+EVACUATE [2,4] - Reason: Proximity to FLOOD 
+EVACUATE [2,9] - Reason: Proximity to FLOOD 
+EVACUATE [2,10] - Reason: Proximity to QUAKE 
+EVACUATE [2,11] - Reason: Proximity to QUAKE 
+EVACUATE [2,13] - Reason: Proximity to HEAT 
+EVACUATE [2,14] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,2] - Reason: Proximity to QUAKE 
+EVACUATE [2,6] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,8] - Reason: Proximity to HEAT 
+EVACUATE [3,9] - Reason: Proximity to QUAKE 
+EVACUATE [3,11] - Reason: Proximity to QUAKE 
+EVACUATE [3,13] - Reason: Proximity to QUAKE 
+EVACUATE [4,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [4,4] - Reason: Proximity to FLOOD 
+EVACUATE [4,5] - Reason: Proximity to FLOOD 
+EVACUATE [4,6] - Reason: Proximity to FLOOD 
+EVACUATE [4,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [4,10] - Reason: Proximity to QUAKE 
+EVACUATE [5,0] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,3] - Reason: Proximity to QUAKE 
+EVACUATE [5,4] - Reason: Proximity to FLOOD 
+EVACUATE [5,6] - Reason: Proximity to FLOOD 
+EVACUATE [5,8] - Reason: Proximity to FLOOD 
+EVACUATE [6,2] - Reason: Proximity to HEAT 
+EVACUATE [6,3] - Reason: Proximity to HEAT 
+EVACUATE [6,5] - Reason: Proximity to HEAT 
+EVACUATE [6,9] - Reason: Proximity to HEAT 
+EVACUATE [6,10] - Reason: Proximity to HEAT 
+EVACUATE [6,11] - Reason: Proximity to QUAKE 
+EVACUATE [6,0] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [7,2] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [7,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,6] - Reason: Proximity to FLOOD 
+EVACUATE [7,7] - Reason: Proximity to FLOOD 
+EVACUATE [7,11] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [7,13] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [8,0] - Reason: Proximity to HEAT 
+EVACUATE [8,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,4] - Reason: Proximity to FLOOD 
+EVACUATE [8,3] - Reason: Proximity to FLOOD 
+EVACUATE [8,5] - Reason: Proximity to FLOOD 
+EVACUATE [8,8] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [8,9] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [7,10] - Reason: Proximity to HEAT 
+EVACUATE [8,10] - Reason: Proximity to HEAT 
+EVACUATE [8,12] - Reason: Proximity to FLOOD 
+EVACUATE [8,13] - Reason: Proximity to FLOOD 
+EVACUATE [8,14] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [9,2] - Reason: Proximity to FLOOD 
+EVACUATE [9,7] - Reason: Proximity to HEAT 
+EVACUATE [9,10] - Reason: Proximity to HEAT 
+EVACUATE [10,0] - Reason: Proximity to FLOOD 
+EVACUATE [10,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [9,3] - Reason: Proximity to QUAKE 
+EVACUATE [10,5] - Reason: Proximity to QUAKE 
+EVACUATE [10,10] - Reason: Proximity to HEAT 
+EVACUATE [10,11] - Reason: Proximity to QUAKE 
+EVACUATE [10,12] - Reason: Proximity to QUAKE 
+EVACUATE [9,13] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [11,0] - Reason: Proximity to HEAT 
+EVACUATE [11,2] - Reason: Proximity to HEAT 
+EVACUATE [11,3] - Reason: Proximity to QUAKE 
+EVACUATE [11,5] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [11,10] - Reason: Proximity to FLOOD 
+EVACUATE [11,13] - Reason: Proximity to HEAT 
+EVACUATE [11,12] - Reason: Proximity to HEAT 
+EVACUATE [12,1] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [12,0] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [12,2] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [12,7] - Reason: Proximity to FLOOD 
+EVACUATE [12,8] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [12,12] - Reason: Proximity to FLOOD 
+EVACUATE [12,14] - Reason: Proximity to FLOOD 
+EVACUATE [13,2] - Reason: Proximity to FLOOD 
+EVACUATE [13,4] - Reason: Proximity to FLOOD 
+EVACUATE [13,6] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [13,9] - Reason: Proximity to HEAT 
+EVACUATE [13,8] - Reason: Proximity to HEAT 
+EVACUATE [13,12] - Reason: Proximity to HEAT 
+EVACUATE [14,4] - Reason: Proximity to FLOOD 
+EVACUATE [14,5] - Reason: Proximity to FLOOD 
+EVACUATE [14,7] - Reason: Proximity to FLOOD 
+EVACUATE [14,10] - Reason: Proximity to HEAT 
+EVACUATE [14,9] - Reason: Proximity to HEAT 
+EVACUATE [14,12] - Reason: Proximity to FLOOD 
+EVACUATE [14,13] - Reason: Proximity to QUAKE 
+EVACUATE [14,14] - Reason: Proximity to QUAKE 
+EVACUATE [13,1] - Reason: Proximity to FLOOD 
+EVACUATE [14,0] - Reason: Proximity to FLOOD 
+EVACUATE [13,0] - Reason: Proximity to FLOOD 
+
+[ DAY 2 ALERT ]
+EVACUATE [1,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,3] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,5] - Reason: Proximity to HEAT 
+EVACUATE [0,4] - Reason: Proximity to HEAT 
+EVACUATE [1,6] - Reason: Proximity to HEAT 
+EVACUATE [1,7] - Reason: Proximity to HEAT 
+EVACUATE [1,9] - Reason: Proximity to FLOOD 
+EVACUATE [0,12] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,13] - Reason: Proximity to QUAKE 
+EVACUATE [0,0] - Reason: Proximity to HEAT 
+EVACUATE [2,0] - Reason: Proximity to HEAT 
+EVACUATE [2,1] - Reason: Proximity to HEAT 
+EVACUATE [2,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,9] - Reason: Proximity to FLOOD 
+EVACUATE [2,10] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [2,11] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [2,13] - Reason: Proximity to HEAT 
+EVACUATE [2,14] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,2] - Reason: Proximity to QUAKE 
+EVACUATE [3,1] - Reason: Proximity to QUAKE 
+EVACUATE [2,6] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,8] - Reason: Proximity to HEAT 
+EVACUATE [3,9] - Reason: Proximity to QUAKE 
+EVACUATE [3,11] - Reason: Proximity to QUAKE 
+EVACUATE [3,13] - Reason: Proximity to QUAKE 
+EVACUATE [4,4] - Reason: Proximity to FLOOD 
+EVACUATE [4,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [4,6] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [4,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [4,10] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [5,0] - Reason: Proximity to HEAT 
+EVACUATE [5,1] - Reason: Proximity to HEAT 
+EVACUATE [5,3] - Reason: Proximity to QUAKE 
+EVACUATE [5,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [5,6] - Reason: Proximity to FLOOD 
+EVACUATE [5,8] - Reason: Proximity to FLOOD 
+EVACUATE [6,2] - Reason: Proximity to HEAT 
+EVACUATE [6,3] - Reason: Proximity to HEAT 
+EVACUATE [6,5] - Reason: Proximity to HEAT 
+EVACUATE [6,9] - Reason: Proximity to HEAT 
+EVACUATE [6,10] - Reason: Proximity to HEAT 
+EVACUATE [6,11] - Reason: Proximity to QUAKE 
+EVACUATE [6,13] - Reason: Proximity to HEAT 
+EVACUATE [6,0] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [7,2] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [7,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,6] - Reason: Proximity to FLOOD 
+EVACUATE [7,7] - Reason: Proximity to FLOOD 
+EVACUATE [7,9] - Reason: Proximity to FLOOD 
+EVACUATE [7,11] - Reason: Proximity to FLOOD 
+EVACUATE [7,13] - Reason: Proximity to FLOOD 
+EVACUATE [8,0] - Reason: Proximity to HEAT 
+EVACUATE [8,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,3] - Reason: Proximity to FLOOD 
+EVACUATE [8,5] - Reason: Proximity to FLOOD 
+EVACUATE [8,8] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [8,9] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [8,12] - Reason: Proximity to FLOOD 
+EVACUATE [8,14] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [9,0] - Reason: Proximity to FLOOD 
+EVACUATE [9,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,10] - Reason: Proximity to HEAT 
+EVACUATE [7,10] - Reason: Proximity to HEAT 
+EVACUATE [9,10] - Reason: Proximity to HEAT 
+EVACUATE [9,13] - Reason: Proximity to QUAKE 
+EVACUATE [10,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,5] - Reason: Proximity to QUAKE 
+EVACUATE [10,8] - Reason: Proximity to QUAKE 
+EVACUATE [10,10] - Reason: Proximity to HEAT 
+EVACUATE [10,11] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [10,12] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [10,14] - Reason: Proximity to HEAT 
+EVACUATE [11,0] - Reason: Proximity to HEAT 
+EVACUATE [11,2] - Reason: Proximity to HEAT 
+EVACUATE [11,3] - Reason: Proximity to QUAKE 
+EVACUATE [11,5] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [11,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [11,10] - Reason: Proximity to FLOOD 
+EVACUATE [11,13] - Reason: Proximity to HEAT 
+EVACUATE [11,12] - Reason: Proximity to HEAT 
+EVACUATE [12,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,0] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,2] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,3] - Reason: Proximity to HEAT 
+EVACUATE [12,7] - Reason: Proximity to FLOOD 
+EVACUATE [12,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,12] - Reason: Proximity to FLOOD 
+EVACUATE [12,14] - Reason: Proximity to FLOOD 
+EVACUATE [13,4] - Reason: Proximity to FLOOD 
+EVACUATE [13,6] - Reason: Proximity to HEAT 
+EVACUATE [13,9] - Reason: Proximity to HEAT 
+EVACUATE [13,8] - Reason: Proximity to HEAT 
+EVACUATE [13,11] - Reason: Proximity to HEAT 
+EVACUATE [13,12] - Reason: Proximity to HEAT 
+EVACUATE [13,2] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [14,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [14,5] - Reason: Proximity to FLOOD 
+EVACUATE [14,9] - Reason: Proximity to HEAT 
+EVACUATE [14,13] - Reason: Proximity to QUAKE 
+EVACUATE [14,12] - Reason: Proximity to QUAKE 
+EVACUATE [13,1] - Reason: Proximity to FLOOD 
+EVACUATE [14,0] - Reason: Proximity to FLOOD 
+EVACUATE [13,0] - Reason: Proximity to FLOOD 
+
+[ DAY 3 ALERT ]
+EVACUATE [1,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,3] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,5] - Reason: Proximity to HEAT 
+EVACUATE [0,4] - Reason: Proximity to HEAT 
+EVACUATE [1,6] - Reason: Proximity to HEAT 
+EVACUATE [1,7] - Reason: Proximity to HEAT 
+EVACUATE [1,9] - Reason: Proximity to FLOOD 
+EVACUATE [0,12] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,13] - Reason: Proximity to QUAKE 
+EVACUATE [0,0] - Reason: Proximity to HEAT 
+EVACUATE [2,0] - Reason: Proximity to HEAT 
+EVACUATE [2,1] - Reason: Proximity to HEAT 
+EVACUATE [2,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,9] - Reason: Proximity to FLOOD 
+EVACUATE [2,10] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [2,11] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [2,13] - Reason: Proximity to HEAT 
+EVACUATE [2,14] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,2] - Reason: Proximity to QUAKE 
+EVACUATE [3,1] - Reason: Proximity to QUAKE 
+EVACUATE [2,6] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,8] - Reason: Proximity to HEAT 
+EVACUATE [3,9] - Reason: Proximity to QUAKE 
+EVACUATE [3,11] - Reason: Proximity to QUAKE 
+EVACUATE [3,13] - Reason: Proximity to QUAKE 
+EVACUATE [4,0] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [4,4] - Reason: Proximity to FLOOD 
+EVACUATE [4,5] - Reason: Proximity to FLOOD 
+EVACUATE [4,6] - Reason: Proximity to FLOOD 
+EVACUATE [4,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [4,13] - Reason: Proximity to QUAKE 
+EVACUATE [5,1] - Reason: Proximity to HEAT 
+EVACUATE [5,0] - Reason: Proximity to HEAT 
+EVACUATE [5,3] - Reason: Proximity to QUAKE 
+EVACUATE [5,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [5,6] - Reason: Proximity to FLOOD 
+EVACUATE [5,8] - Reason: Proximity to FLOOD 
+EVACUATE [3,14] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [6,2] - Reason: Proximity to HEAT 
+EVACUATE [6,5] - Reason: Proximity to HEAT 
+EVACUATE [6,9] - Reason: Proximity to HEAT 
+EVACUATE [6,10] - Reason: Proximity to HEAT 
+EVACUATE [6,11] - Reason: Proximity to QUAKE 
+EVACUATE [6,0] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [7,2] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [7,3] - Reason: Proximity to HEAT 
+EVACUATE [7,6] - Reason: Proximity to FLOOD 
+EVACUATE [7,7] - Reason: Proximity to FLOOD 
+EVACUATE [7,11] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [7,13] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [8,0] - Reason: Proximity to HEAT 
+EVACUATE [8,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,3] - Reason: Proximity to FLOOD 
+EVACUATE [8,5] - Reason: Proximity to FLOOD 
+EVACUATE [8,6] - Reason: Proximity to FLOOD 
+EVACUATE [8,8] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [8,9] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [7,10] - Reason: Proximity to QUAKE 
+EVACUATE [8,10] - Reason: Proximity to QUAKE 
+EVACUATE [8,12] - Reason: Proximity to FLOOD 
+EVACUATE [8,14] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [9,0] - Reason: Proximity to FLOOD 
+EVACUATE [9,2] - Reason: Proximity to FLOOD 
+EVACUATE [9,4] - Reason: Proximity to HEAT 
+EVACUATE [9,7] - Reason: Proximity to FLOOD 
+EVACUATE [9,10] - Reason: Proximity to HEAT 
+EVACUATE [9,13] - Reason: Proximity to QUAKE 
+EVACUATE [10,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,10] - Reason: Proximity to HEAT 
+EVACUATE [10,11] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,12] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,14] - Reason: Proximity to HEAT 
+EVACUATE [11,0] - Reason: Proximity to HEAT 
+EVACUATE [11,2] - Reason: Proximity to HEAT 
+EVACUATE [11,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [11,5] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [11,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [11,10] - Reason: Proximity to FLOOD 
+EVACUATE [11,12] - Reason: Proximity to HEAT 
+EVACUATE [12,1] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [12,0] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [12,2] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [12,3] - Reason: Proximity to QUAKE 
+EVACUATE [12,7] - Reason: Proximity to FLOOD 
+EVACUATE [12,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,12] - Reason: Proximity to FLOOD 
+EVACUATE [13,4] - Reason: Proximity to FLOOD 
+EVACUATE [13,6] - Reason: Proximity to HEAT 
+EVACUATE [13,9] - Reason: Proximity to HEAT 
+EVACUATE [13,8] - Reason: Proximity to HEAT 
+EVACUATE [13,11] - Reason: Proximity to HEAT 
+EVACUATE [13,12] - Reason: Proximity to HEAT 
+EVACUATE [13,2] - Reason: Proximity to FLOOD 
+EVACUATE [14,4] - Reason: Proximity to FLOOD 
+EVACUATE [14,5] - Reason: Proximity to FLOOD 
+EVACUATE [14,7] - Reason: Proximity to FLOOD 
+EVACUATE [14,10] - Reason: Proximity to HEAT 
+EVACUATE [14,9] - Reason: Proximity to HEAT 
+EVACUATE [14,13] - Reason: Proximity to QUAKE 
+EVACUATE [14,12] - Reason: Proximity to QUAKE 
+EVACUATE [13,1] - Reason: Proximity to FLOOD 
+EVACUATE [14,0] - Reason: Proximity to FLOOD 
+EVACUATE [13,0] - Reason: Proximity to FLOOD 
+
+[ DAY 4 ALERT ]
+EVACUATE [1,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,3] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,5] - Reason: Proximity to HEAT 
+EVACUATE [0,4] - Reason: Proximity to HEAT 
+EVACUATE [1,6] - Reason: Proximity to HEAT 
+EVACUATE [1,7] - Reason: Proximity to HEAT 
+EVACUATE [1,9] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [0,12] - Reason: Proximity to FLOOD 
+EVACUATE [1,12] - Reason: Proximity to FLOOD 
+EVACUATE [1,13] - Reason: Proximity to QUAKE 
+EVACUATE [0,0] - Reason: Proximity to HEAT 
+EVACUATE [2,0] - Reason: Proximity to HEAT 
+EVACUATE [2,1] - Reason: Proximity to HEAT 
+EVACUATE [2,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,9] - Reason: Proximity to FLOOD 
+EVACUATE [2,10] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [2,11] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [2,14] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,13] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,2] - Reason: Proximity to QUAKE 
+EVACUATE [3,1] - Reason: Proximity to QUAKE 
+EVACUATE [2,6] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,8] - Reason: Proximity to HEAT 
+EVACUATE [3,9] - Reason: Proximity to QUAKE 
+EVACUATE [3,11] - Reason: Proximity to QUAKE 
+EVACUATE [3,13] - Reason: Proximity to QUAKE 
+EVACUATE [4,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [4,4] - Reason: Proximity to FLOOD 
+EVACUATE [4,5] - Reason: Proximity to FLOOD 
+EVACUATE [4,6] - Reason: Proximity to FLOOD 
+EVACUATE [4,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,0] - Reason: Proximity to HEAT 
+EVACUATE [5,1] - Reason: Proximity to HEAT 
+EVACUATE [5,3] - Reason: Proximity to QUAKE 
+EVACUATE [5,4] - Reason: Proximity to QUAKE 
+EVACUATE [5,6] - Reason: Proximity to FLOOD 
+EVACUATE [5,8] - Reason: Proximity to FLOOD 
+EVACUATE [3,14] - Reason: Proximity to QUAKE 
+EVACUATE [6,2] - Reason: Proximity to HEAT 
+EVACUATE [6,1] - Reason: Proximity to HEAT 
+EVACUATE [6,5] - Reason: Proximity to HEAT 
+EVACUATE [6,9] - Reason: Proximity to HEAT 
+EVACUATE [6,10] - Reason: Proximity to HEAT 
+EVACUATE [6,11] - Reason: Proximity to QUAKE 
+EVACUATE [7,3] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [7,2] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [7,6] - Reason: Proximity to FLOOD 
+EVACUATE [7,11] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [7,13] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [6,0] - Reason: Proximity to HEAT 
+EVACUATE [8,0] - Reason: Proximity to HEAT 
+EVACUATE [8,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,3] - Reason: Proximity to FLOOD 
+EVACUATE [8,5] - Reason: Proximity to FLOOD 
+EVACUATE [8,6] - Reason: Proximity to FLOOD 
+EVACUATE [8,8] - Reason: Proximity to HEAT 
+EVACUATE [8,9] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [7,10] - Reason: Proximity to QUAKE 
+EVACUATE [8,10] - Reason: Proximity to QUAKE 
+EVACUATE [8,12] - Reason: Proximity to FLOOD 
+EVACUATE [8,11] - Reason: Proximity to FLOOD 
+EVACUATE [8,14] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [9,0] - Reason: Proximity to FLOOD 
+EVACUATE [9,2] - Reason: Proximity to FLOOD 
+EVACUATE [9,3] - Reason: Proximity to HEAT 
+EVACUATE [9,13] - Reason: Proximity to QUAKE 
+EVACUATE [10,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,5] - Reason: Proximity to QUAKE 
+EVACUATE [9,10] - Reason: Proximity to HEAT 
+EVACUATE [10,10] - Reason: Proximity to HEAT 
+EVACUATE [10,11] - Reason: Proximity to HEAT 
+EVACUATE [10,12] - Reason: Proximity to HEAT 
+EVACUATE [10,14] - Reason: Proximity to HEAT 
+EVACUATE [11,0] - Reason: Proximity to HEAT 
+EVACUATE [11,2] - Reason: Proximity to HEAT 
+EVACUATE [11,3] - Reason: Proximity to QUAKE 
+EVACUATE [11,4] - Reason: Proximity to QUAKE 
+EVACUATE [11,5] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [11,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [11,10] - Reason: Proximity to FLOOD 
+EVACUATE [11,12] - Reason: Proximity to HEAT 
+EVACUATE [12,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,0] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,2] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,7] - Reason: Proximity to FLOOD 
+EVACUATE [12,8] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [12,9] - Reason: Proximity to HEAT 
+EVACUATE [12,12] - Reason: Proximity to FLOOD 
+EVACUATE [13,4] - Reason: Proximity to FLOOD 
+EVACUATE [12,3] - Reason: Proximity to FLOOD 
+EVACUATE [13,6] - Reason: Proximity to HEAT 
+EVACUATE [13,9] - Reason: Proximity to HEAT 
+EVACUATE [13,11] - Reason: Proximity to HEAT 
+EVACUATE [13,12] - Reason: Proximity to HEAT 
+EVACUATE [13,13] - Reason: Proximity to QUAKE 
+EVACUATE [13,14] - Reason: Proximity to QUAKE 
+EVACUATE [13,2] - Reason: Proximity to FLOOD 
+EVACUATE [14,4] - Reason: Proximity to FLOOD 
+EVACUATE [13,8] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [14,9] - Reason: Proximity to HEAT 
+EVACUATE [13,1] - Reason: Proximity to FLOOD 
+EVACUATE [14,0] - Reason: Proximity to FLOOD 
+EVACUATE [13,0] - Reason: Proximity to FLOOD 
+EVACUATE [14,12] - Reason: Proximity to QUAKE 
+EVACUATE [14,13] - Reason: Proximity to QUAKE 
+
+[ DAY 5 ALERT ]
+EVACUATE [0,1] - Reason: Proximity to HEAT 
+EVACUATE [1,1] - Reason: Proximity to HEAT 
+EVACUATE [1,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,3] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,6] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,7] - Reason: Proximity to HEAT 
+EVACUATE [1,9] - Reason: Proximity to FLOOD 
+EVACUATE [0,11] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [1,13] - Reason: Proximity to QUAKE 
+EVACUATE [0,12] - Reason: Proximity to QUAKE 
+EVACUATE [1,12] - Reason: Proximity to QUAKE 
+EVACUATE [2,0] - Reason: Proximity to HEAT 
+EVACUATE [2,1] - Reason: Proximity to HEAT 
+EVACUATE [2,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,2] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,9] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,10] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [2,11] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [2,14] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,13] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,6] - Reason: Proximity to QUAKE 
+EVACUATE [3,4] - Reason: Proximity to QUAKE 
+EVACUATE [3,8] - Reason: Proximity to HEAT 
+EVACUATE [3,9] - Reason: Proximity to QUAKE 
+EVACUATE [3,11] - Reason: Proximity to QUAKE 
+EVACUATE [3,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [4,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [3,2] - Reason: Proximity to FLOOD 
+EVACUATE [4,2] - Reason: Proximity to FLOOD 
+EVACUATE [4,4] - Reason: Proximity to FLOOD 
+EVACUATE [4,6] - Reason: Proximity to FLOOD 
+EVACUATE [4,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [4,10] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [4,12] - Reason: Proximity to QUAKE 
+EVACUATE [3,14] - Reason: Proximity to QUAKE 
+EVACUATE [5,0] - Reason: Proximity to HEAT 
+EVACUATE [5,1] - Reason: Proximity to HEAT 
+EVACUATE [5,3] - Reason: Proximity to QUAKE 
+EVACUATE [5,4] - Reason: Proximity to QUAKE 
+EVACUATE [5,6] - Reason: Proximity to HEAT 
+EVACUATE [5,8] - Reason: Proximity to FLOOD 
+EVACUATE [5,11] - Reason: Proximity to QUAKE 
+EVACUATE [6,2] - Reason: Proximity to HEAT 
+EVACUATE [6,1] - Reason: Proximity to HEAT 
+EVACUATE [6,5] - Reason: Proximity to HEAT 
+EVACUATE [6,10] - Reason: Proximity to HEAT 
+EVACUATE [6,11] - Reason: Proximity to QUAKE 
+EVACUATE [7,3] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [7,2] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [7,6] - Reason: Proximity to FLOOD 
+EVACUATE [7,10] - Reason: Proximity to QUAKE 
+EVACUATE [7,11] - Reason: Proximity to FLOOD 
+EVACUATE [7,13] - Reason: Proximity to FLOOD 
+EVACUATE [6,0] - Reason: Proximity to HEAT 
+EVACUATE [8,0] - Reason: Proximity to HEAT 
+EVACUATE [8,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,5] - Reason: Proximity to FLOOD 
+EVACUATE [8,8] - Reason: Proximity to HEAT 
+EVACUATE [8,9] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [8,10] - Reason: Proximity to QUAKE 
+EVACUATE [8,12] - Reason: Proximity to FLOOD 
+EVACUATE [9,0] - Reason: Proximity to FLOOD 
+EVACUATE [9,2] - Reason: Proximity to FLOOD 
+EVACUATE [9,3] - Reason: Proximity to HEAT 
+EVACUATE [9,10] - Reason: Proximity to HEAT 
+EVACUATE [9,13] - Reason: Proximity to QUAKE 
+EVACUATE [10,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,5] - Reason: Proximity to QUAKE 
+EVACUATE [10,9] - Reason: Proximity to FLOOD 
+EVACUATE [10,10] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [10,11] - Reason: Proximity to HEAT 
+EVACUATE [10,12] - Reason: Proximity to HEAT 
+EVACUATE [10,14] - Reason: Proximity to HEAT 
+EVACUATE [11,0] - Reason: Proximity to HEAT 
+EVACUATE [11,2] - Reason: Proximity to HEAT 
+EVACUATE [11,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [11,5] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [11,6] - Reason: Proximity to HEAT 
+EVACUATE [11,8] - Reason: Proximity to QUAKE 
+EVACUATE [11,12] - Reason: Proximity to HEAT 
+EVACUATE [12,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,0] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,2] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,3] - Reason: Proximity to QUAKE 
+EVACUATE [12,7] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [11,10] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [12,12] - Reason: Proximity to FLOOD 
+EVACUATE [12,13] - Reason: Proximity to HEAT 
+EVACUATE [13,4] - Reason: Proximity to FLOOD 
+EVACUATE [13,6] - Reason: Proximity to HEAT 
+EVACUATE [13,9] - Reason: Proximity to HEAT 
+EVACUATE [13,8] - Reason: Proximity to HEAT 
+EVACUATE [13,11] - Reason: Proximity to HEAT 
+EVACUATE [13,12] - Reason: Proximity to HEAT 
+EVACUATE [13,14] - Reason: Proximity to HEAT 
+EVACUATE [13,13] - Reason: Proximity to HEAT 
+EVACUATE [13,2] - Reason: Proximity to FLOOD 
+EVACUATE [14,4] - Reason: Proximity to FLOOD 
+EVACUATE [14,5] - Reason: Proximity to FLOOD 
+EVACUATE [14,6] - Reason: Proximity to FLOOD 
+EVACUATE [14,9] - Reason: Proximity to HEAT 
+EVACUATE [13,1] - Reason: Proximity to FLOOD 
+EVACUATE [14,0] - Reason: Proximity to FLOOD 
+EVACUATE [13,0] - Reason: Proximity to FLOOD 
+EVACUATE [14,12] - Reason: Proximity to QUAKE 
+
+[ DAY 6 ALERT ]
+EVACUATE [1,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,3] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,6] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,7] - Reason: Proximity to HEAT 
+EVACUATE [1,9] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,11] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [1,13] - Reason: Proximity to QUAKE 
+EVACUATE [0,12] - Reason: Proximity to QUAKE 
+EVACUATE [1,12] - Reason: Proximity to QUAKE 
+EVACUATE [0,0] - Reason: Proximity to HEAT 
+EVACUATE [2,0] - Reason: Proximity to HEAT 
+EVACUATE [2,1] - Reason: Proximity to HEAT 
+EVACUATE [2,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,9] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,10] - Reason: Proximity to QUAKE 
+EVACUATE [2,11] - Reason: Proximity to QUAKE 
+EVACUATE [2,14] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,13] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,2] - Reason: Proximity to QUAKE 
+EVACUATE [3,1] - Reason: Proximity to QUAKE 
+EVACUATE [2,6] - Reason: Proximity to QUAKE 
+EVACUATE [3,4] - Reason: Proximity to QUAKE 
+EVACUATE [3,6] - Reason: Proximity to QUAKE 
+EVACUATE [3,8] - Reason: Proximity to HEAT 
+EVACUATE [3,9] - Reason: Proximity to QUAKE 
+EVACUATE [3,11] - Reason: Proximity to QUAKE 
+EVACUATE [4,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [4,2] - Reason: Proximity to FLOOD 
+EVACUATE [4,4] - Reason: Proximity to FLOOD 
+EVACUATE [4,6] - Reason: Proximity to FLOOD 
+EVACUATE [4,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [4,12] - Reason: Proximity to QUAKE 
+EVACUATE [3,14] - Reason: Proximity to QUAKE 
+EVACUATE [5,0] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,3] - Reason: Proximity to QUAKE 
+EVACUATE [5,4] - Reason: Proximity to QUAKE 
+EVACUATE [5,6] - Reason: Proximity to HEAT 
+EVACUATE [5,11] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [6,2] - Reason: Proximity to HEAT 
+EVACUATE [6,1] - Reason: Proximity to HEAT 
+EVACUATE [6,5] - Reason: Proximity to HEAT 
+EVACUATE [6,10] - Reason: Proximity to HEAT 
+EVACUATE [6,11] - Reason: Proximity to QUAKE 
+EVACUATE [7,3] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [7,2] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [7,6] - Reason: Proximity to FLOOD 
+EVACUATE [7,10] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,11] - Reason: Proximity to FLOOD 
+EVACUATE [7,13] - Reason: Proximity to FLOOD 
+EVACUATE [6,0] - Reason: Proximity to HEAT 
+EVACUATE [8,0] - Reason: Proximity to HEAT 
+EVACUATE [8,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,5] - Reason: Proximity to FLOOD 
+EVACUATE [8,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [8,9] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [8,10] - Reason: Proximity to QUAKE 
+EVACUATE [8,12] - Reason: Proximity to FLOOD 
+EVACUATE [9,0] - Reason: Proximity to FLOOD 
+EVACUATE [9,2] - Reason: Proximity to FLOOD 
+EVACUATE [9,3] - Reason: Proximity to HEAT 
+EVACUATE [9,10] - Reason: Proximity to HEAT 
+EVACUATE [9,13] - Reason: Proximity to QUAKE 
+EVACUATE [10,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,5] - Reason: Proximity to QUAKE 
+EVACUATE [10,9] - Reason: Proximity to FLOOD 
+EVACUATE [10,10] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [10,11] - Reason: Proximity to HEAT 
+EVACUATE [10,14] - Reason: Proximity to HEAT 
+EVACUATE [11,0] - Reason: Proximity to HEAT 
+EVACUATE [11,2] - Reason: Proximity to HEAT 
+EVACUATE [11,3] - Reason: Proximity to QUAKE 
+EVACUATE [11,5] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [11,6] - Reason: Proximity to HEAT 
+EVACUATE [11,12] - Reason: Proximity to HEAT 
+EVACUATE [11,14] - Reason: Proximity to HEAT 
+EVACUATE [12,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,0] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,2] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,7] - Reason: Proximity to HEAT 
+EVACUATE [12,8] - Reason: Proximity to HEAT 
+EVACUATE [12,9] - Reason: Proximity to QUAKE 
+EVACUATE [11,10] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [12,12] - Reason: Proximity to FLOOD 
+EVACUATE [13,2] - Reason: Proximity to FLOOD 
+EVACUATE [13,4] - Reason: Proximity to FLOOD 
+EVACUATE [13,6] - Reason: Proximity to HEAT 
+EVACUATE [13,9] - Reason: Proximity to HEAT 
+EVACUATE [13,12] - Reason: Proximity to HEAT 
+EVACUATE [14,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [14,5] - Reason: Proximity to FLOOD 
+EVACUATE [13,8] - Reason: Proximity to FLOOD 
+EVACUATE [14,9] - Reason: Proximity to HEAT 
+EVACUATE [14,12] - Reason: Proximity to FLOOD 
+EVACUATE [14,13] - Reason: Proximity to QUAKE 
+EVACUATE [14,14] - Reason: Proximity to QUAKE 
+EVACUATE [13,1] - Reason: Proximity to FLOOD 
+EVACUATE [14,0] - Reason: Proximity to FLOOD 
+EVACUATE [13,0] - Reason: Proximity to FLOOD 
+
+[ DAY 7 ALERT ]
+EVACUATE [1,1] - Reason: Proximity to QUAKE 
+EVACUATE [0,0] - Reason: Proximity to QUAKE 
+EVACUATE [1,2] - Reason: Proximity to QUAKE 
+EVACUATE [0,3] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,6] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,7] - Reason: Proximity to HEAT 
+EVACUATE [1,9] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [0,12] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,12] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,13] - Reason: Proximity to QUAKE 
+EVACUATE [2,0] - Reason: Proximity to HEAT 
+EVACUATE [2,1] - Reason: Proximity to HEAT 
+EVACUATE [2,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,2] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,9] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,10] - Reason: Proximity to QUAKE 
+EVACUATE [2,11] - Reason: Proximity to QUAKE 
+EVACUATE [2,14] - Reason: Proximity to FLOOD 
+EVACUATE [2,13] - Reason: Proximity to FLOOD 
+EVACUATE [2,6] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,8] - Reason: Proximity to HEAT 
+EVACUATE [3,9] - Reason: Proximity to QUAKE 
+EVACUATE [3,11] - Reason: Proximity to QUAKE 
+EVACUATE [3,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [4,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [3,2] - Reason: Proximity to FLOOD 
+EVACUATE [4,2] - Reason: Proximity to FLOOD 
+EVACUATE [4,4] - Reason: Proximity to FLOOD 
+EVACUATE [4,6] - Reason: Proximity to FLOOD 
+EVACUATE [4,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [4,12] - Reason: Proximity to QUAKE 
+EVACUATE [3,14] - Reason: Proximity to QUAKE 
+EVACUATE [5,0] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,3] - Reason: Proximity to QUAKE 
+EVACUATE [5,4] - Reason: Proximity to QUAKE 
+EVACUATE [5,6] - Reason: Proximity to HEAT 
+EVACUATE [5,11] - Reason: Proximity to QUAKE 
+EVACUATE [6,2] - Reason: Proximity to HEAT 
+EVACUATE [6,1] - Reason: Proximity to HEAT 
+EVACUATE [6,5] - Reason: Proximity to HEAT 
+EVACUATE [6,10] - Reason: Proximity to HEAT 
+EVACUATE [6,11] - Reason: Proximity to QUAKE 
+EVACUATE [7,3] - Reason: Proximity to HEAT 
+EVACUATE [7,2] - Reason: Proximity to HEAT 
+EVACUATE [7,6] - Reason: Proximity to FLOOD 
+EVACUATE [7,10] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,11] - Reason: Proximity to FLOOD 
+EVACUATE [7,13] - Reason: Proximity to FLOOD 
+EVACUATE [6,0] - Reason: Proximity to HEAT 
+EVACUATE [8,0] - Reason: Proximity to HEAT 
+EVACUATE [8,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,3] - Reason: Proximity to FLOOD 
+EVACUATE [8,5] - Reason: Proximity to FLOOD 
+EVACUATE [8,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [8,9] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [8,10] - Reason: Proximity to QUAKE 
+EVACUATE [8,12] - Reason: Proximity to FLOOD 
+EVACUATE [9,0] - Reason: Proximity to FLOOD 
+EVACUATE [9,2] - Reason: Proximity to FLOOD 
+EVACUATE [9,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [9,3] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [9,10] - Reason: Proximity to HEAT 
+EVACUATE [9,13] - Reason: Proximity to QUAKE 
+EVACUATE [10,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,9] - Reason: Proximity to FLOOD 
+EVACUATE [10,10] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [10,11] - Reason: Proximity to HEAT 
+EVACUATE [10,12] - Reason: Proximity to HEAT 
+EVACUATE [10,14] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [11,0] - Reason: Proximity to HEAT 
+EVACUATE [11,2] - Reason: Proximity to HEAT 
+EVACUATE [11,3] - Reason: Proximity to QUAKE 
+EVACUATE [11,5] - Reason: Proximity to FLOOD 
+EVACUATE [11,6] - Reason: Proximity to HEAT 
+EVACUATE [11,12] - Reason: Proximity to HEAT 
+EVACUATE [12,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,0] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,2] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,7] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,9] - Reason: Proximity to QUAKE 
+EVACUATE [11,10] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [12,12] - Reason: Proximity to FLOOD 
+EVACUATE [12,13] - Reason: Proximity to HEAT 
+EVACUATE [13,2] - Reason: Proximity to FLOOD 
+EVACUATE [13,4] - Reason: Proximity to FLOOD 
+EVACUATE [13,6] - Reason: Proximity to HEAT 
+EVACUATE [13,9] - Reason: Proximity to HEAT 
+EVACUATE [13,11] - Reason: Proximity to HEAT 
+EVACUATE [13,12] - Reason: Proximity to HEAT 
+EVACUATE [14,2] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [14,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [14,5] - Reason: Proximity to FLOOD 
+EVACUATE [13,8] - Reason: Proximity to FLOOD 
+EVACUATE [14,9] - Reason: Proximity to HEAT 
+EVACUATE [14,13] - Reason: Proximity to QUAKE 
+EVACUATE [14,12] - Reason: Proximity to QUAKE 
+EVACUATE [14,14] - Reason: Proximity to QUAKE 
+EVACUATE [13,1] - Reason: Proximity to FLOOD 
+EVACUATE [14,0] - Reason: Proximity to FLOOD 
+EVACUATE [13,0] - Reason: Proximity to FLOOD 
+
+[ DAY 8 ALERT ]
+EVACUATE [1,1] - Reason: Proximity to HEAT 
+EVACUATE [1,2] - Reason: Proximity to QUAKE 
+EVACUATE [0,3] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,6] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,7] - Reason: Proximity to HEAT 
+EVACUATE [1,9] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [1,10] - Reason: Proximity to FLOOD 
+EVACUATE [0,11] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [1,13] - Reason: Proximity to QUAKE 
+EVACUATE [0,12] - Reason: Proximity to QUAKE 
+EVACUATE [2,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,9] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,11] - Reason: Proximity to FLOOD 
+EVACUATE [2,10] - Reason: Proximity to FLOOD 
+EVACUATE [2,13] - Reason: Proximity to HEAT 
+EVACUATE [2,14] - Reason: Proximity to FLOOD 
+EVACUATE [3,2] - Reason: Proximity to QUAKE 
+EVACUATE [3,1] - Reason: Proximity to QUAKE 
+EVACUATE [2,6] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,8] - Reason: Proximity to HEAT 
+EVACUATE [3,9] - Reason: Proximity to QUAKE 
+EVACUATE [3,11] - Reason: Proximity to QUAKE 
+EVACUATE [4,2] - Reason: Proximity to FLOOD 
+EVACUATE [4,4] - Reason: Proximity to FLOOD 
+EVACUATE [4,6] - Reason: Proximity to FLOOD 
+EVACUATE [4,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [4,12] - Reason: Proximity to QUAKE 
+EVACUATE [3,14] - Reason: Proximity to QUAKE 
+EVACUATE [5,0] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,3] - Reason: Proximity to QUAKE 
+EVACUATE [5,4] - Reason: Proximity to QUAKE 
+EVACUATE [5,6] - Reason: Proximity to HEAT 
+EVACUATE [5,11] - Reason: Proximity to QUAKE 
+EVACUATE [6,2] - Reason: Proximity to HEAT 
+EVACUATE [6,1] - Reason: Proximity to HEAT 
+EVACUATE [6,5] - Reason: Proximity to HEAT 
+EVACUATE [6,10] - Reason: Proximity to HEAT 
+EVACUATE [6,11] - Reason: Proximity to QUAKE 
+EVACUATE [7,3] - Reason: Proximity to HEAT 
+EVACUATE [7,2] - Reason: Proximity to HEAT 
+EVACUATE [7,10] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,11] - Reason: Proximity to FLOOD 
+EVACUATE [7,13] - Reason: Proximity to FLOOD 
+EVACUATE [6,0] - Reason: Proximity to HEAT 
+EVACUATE [8,0] - Reason: Proximity to HEAT 
+EVACUATE [8,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,3] - Reason: Proximity to FLOOD 
+EVACUATE [8,5] - Reason: Proximity to FLOOD 
+EVACUATE [8,6] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [8,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [8,9] - Reason: Proximity to FLOOD 
+EVACUATE [8,10] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [8,12] - Reason: Proximity to FLOOD 
+EVACUATE [8,11] - Reason: Proximity to FLOOD 
+EVACUATE [9,0] - Reason: Proximity to FLOOD 
+EVACUATE [9,2] - Reason: Proximity to FLOOD 
+EVACUATE [9,3] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [9,13] - Reason: Proximity to QUAKE 
+EVACUATE [10,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,5] - Reason: Proximity to QUAKE 
+EVACUATE [9,10] - Reason: Proximity to HEAT 
+EVACUATE [10,10] - Reason: Proximity to HEAT 
+EVACUATE [10,11] - Reason: Proximity to HEAT 
+EVACUATE [10,12] - Reason: Proximity to HEAT 
+EVACUATE [10,14] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [11,0] - Reason: Proximity to HEAT 
+EVACUATE [11,2] - Reason: Proximity to HEAT 
+EVACUATE [11,3] - Reason: Proximity to FLOOD 
+EVACUATE [11,4] - Reason: Proximity to FLOOD 
+EVACUATE [11,5] - Reason: Proximity to FLOOD 
+EVACUATE [11,6] - Reason: Proximity to HEAT 
+EVACUATE [11,10] - Reason: Proximity to FLOOD 
+EVACUATE [11,12] - Reason: Proximity to HEAT 
+EVACUATE [12,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,0] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,2] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,7] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,9] - Reason: Proximity to QUAKE 
+EVACUATE [12,12] - Reason: Proximity to FLOOD 
+EVACUATE [13,4] - Reason: Proximity to FLOOD 
+EVACUATE [12,3] - Reason: Proximity to FLOOD 
+EVACUATE [13,6] - Reason: Proximity to HEAT 
+EVACUATE [13,9] - Reason: Proximity to HEAT 
+EVACUATE [13,11] - Reason: Proximity to HEAT 
+EVACUATE [13,12] - Reason: Proximity to HEAT 
+EVACUATE [13,13] - Reason: Proximity to QUAKE 
+EVACUATE [13,2] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [14,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [14,5] - Reason: Proximity to FLOOD 
+EVACUATE [14,6] - Reason: Proximity to FLOOD 
+EVACUATE [13,8] - Reason: Proximity to FLOOD 
+EVACUATE [14,9] - Reason: Proximity to HEAT 
+EVACUATE [14,14] - Reason: Proximity to HEAT 
+EVACUATE [14,13] - Reason: Proximity to HEAT 
+EVACUATE [13,0] - Reason: Proximity to FLOOD 
+EVACUATE [13,1] - Reason: Proximity to FLOOD 
+EVACUATE [14,12] - Reason: Proximity to QUAKE 
+
+[ DAY 9 ALERT ]
+EVACUATE [1,1] - Reason: Proximity to HEAT 
+EVACUATE [0,2] - Reason: Proximity to QUAKE 
+EVACUATE [1,2] - Reason: Proximity to QUAKE 
+EVACUATE [1,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,6] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,9] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [0,11] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [0,12] - Reason: Proximity to QUAKE 
+EVACUATE [1,12] - Reason: Proximity to QUAKE 
+EVACUATE [2,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,2] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,7] - Reason: Proximity to QUAKE 
+EVACUATE [2,6] - Reason: Proximity to QUAKE 
+EVACUATE [2,9] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,10] - Reason: Proximity to QUAKE 
+EVACUATE [2,11] - Reason: Proximity to QUAKE 
+EVACUATE [2,13] - Reason: Proximity to QUAKE 
+EVACUATE [2,14] - Reason: Proximity to QUAKE 
+EVACUATE [3,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,6] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,8] - Reason: Proximity to QUAKE 
+EVACUATE [3,9] - Reason: Proximity to QUAKE 
+EVACUATE [3,11] - Reason: Proximity to QUAKE 
+EVACUATE [3,1] - Reason: Proximity to HEAT 
+EVACUATE [3,2] - Reason: Proximity to FLOOD 
+EVACUATE [4,2] - Reason: Proximity to FLOOD 
+EVACUATE [4,4] - Reason: Proximity to FLOOD 
+EVACUATE [4,6] - Reason: Proximity to FLOOD 
+EVACUATE [4,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [4,10] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,14] - Reason: Proximity to QUAKE 
+EVACUATE [5,0] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,3] - Reason: Proximity to QUAKE 
+EVACUATE [5,4] - Reason: Proximity to QUAKE 
+EVACUATE [5,6] - Reason: Proximity to HEAT 
+EVACUATE [5,7] - Reason: Proximity to FLOOD 
+EVACUATE [5,8] - Reason: Proximity to FLOOD 
+EVACUATE [5,9] - Reason: Proximity to FLOOD 
+EVACUATE [5,11] - Reason: Proximity to QUAKE 
+EVACUATE [6,2] - Reason: Proximity to HEAT 
+EVACUATE [6,1] - Reason: Proximity to HEAT 
+EVACUATE [6,5] - Reason: Proximity to HEAT 
+EVACUATE [6,10] - Reason: Proximity to QUAKE 
+EVACUATE [6,11] - Reason: Proximity to QUAKE 
+EVACUATE [6,13] - Reason: Proximity to HEAT 
+EVACUATE [7,3] - Reason: Proximity to HEAT 
+EVACUATE [7,2] - Reason: Proximity to HEAT 
+EVACUATE [7,10] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,11] - Reason: Proximity to FLOOD 
+EVACUATE [7,13] - Reason: Proximity to FLOOD 
+EVACUATE [6,0] - Reason: Proximity to HEAT 
+EVACUATE [8,0] - Reason: Proximity to HEAT 
+EVACUATE [8,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,3] - Reason: Proximity to FLOOD 
+EVACUATE [8,5] - Reason: Proximity to FLOOD 
+EVACUATE [8,6] - Reason: Proximity to FLOOD 
+EVACUATE [8,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [8,9] - Reason: Proximity to FLOOD 
+EVACUATE [8,10] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [8,12] - Reason: Proximity to FLOOD 
+EVACUATE [8,11] - Reason: Proximity to FLOOD 
+EVACUATE [9,0] - Reason: Proximity to FLOOD 
+EVACUATE [9,2] - Reason: Proximity to FLOOD 
+EVACUATE [9,3] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [9,13] - Reason: Proximity to QUAKE 
+EVACUATE [10,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,5] - Reason: Proximity to QUAKE 
+EVACUATE [10,9] - Reason: Proximity to FLOOD 
+EVACUATE [9,10] - Reason: Proximity to HEAT 
+EVACUATE [10,10] - Reason: Proximity to HEAT 
+EVACUATE [10,11] - Reason: Proximity to HEAT 
+EVACUATE [10,12] - Reason: Proximity to HEAT 
+EVACUATE [10,14] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [11,0] - Reason: Proximity to HEAT 
+EVACUATE [11,2] - Reason: Proximity to HEAT 
+EVACUATE [11,3] - Reason: Proximity to FLOOD 
+EVACUATE [11,5] - Reason: Proximity to FLOOD 
+EVACUATE [11,6] - Reason: Proximity to HEAT 
+EVACUATE [11,13] - Reason: Proximity to HEAT 
+EVACUATE [11,12] - Reason: Proximity to HEAT 
+EVACUATE [11,14] - Reason: Proximity to HEAT 
+EVACUATE [12,0] - Reason: Proximity to QUAKE 
+EVACUATE [12,2] - Reason: Proximity to QUAKE 
+EVACUATE [12,7] - Reason: Proximity to HEAT 
+EVACUATE [12,8] - Reason: Proximity to HEAT 
+EVACUATE [12,9] - Reason: Proximity to QUAKE 
+EVACUATE [12,12] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,1] - Reason: Proximity to FLOOD 
+EVACUATE [13,0] - Reason: Proximity to FLOOD 
+EVACUATE [13,4] - Reason: Proximity to FLOOD 
+EVACUATE [13,6] - Reason: Proximity to HEAT 
+EVACUATE [13,9] - Reason: Proximity to HEAT 
+EVACUATE [13,11] - Reason: Proximity to HEAT 
+EVACUATE [13,12] - Reason: Proximity to HEAT 
+EVACUATE [13,13] - Reason: Proximity to QUAKE 
+EVACUATE [12,14] - Reason: Proximity to QUAKE 
+EVACUATE [14,2] - Reason: Proximity to QUAKE 
+EVACUATE [14,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [14,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,8] - Reason: Proximity to FLOOD 
+EVACUATE [14,9] - Reason: Proximity to HEAT 
+EVACUATE [14,11] - Reason: Proximity to HEAT 
+EVACUATE [14,13] - Reason: Proximity to HEAT 
+
+[ DAY 10 ALERT ]
+EVACUATE [1,1] - Reason: Proximity to HEAT 
+EVACUATE [0,2] - Reason: Proximity to QUAKE 
+EVACUATE [1,2] - Reason: Proximity to QUAKE 
+EVACUATE [1,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,6] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,6] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,9] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [1,10] - Reason: Proximity to FLOOD 
+EVACUATE [0,12] - Reason: Proximity to FLOOD 
+EVACUATE [1,12] - Reason: Proximity to FLOOD 
+EVACUATE [2,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,7] - Reason: Proximity to QUAKE 
+EVACUATE [2,6] - Reason: Proximity to QUAKE 
+EVACUATE [2,9] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,11] - Reason: Proximity to FLOOD 
+EVACUATE [2,10] - Reason: Proximity to FLOOD 
+EVACUATE [2,13] - Reason: Proximity to QUAKE 
+EVACUATE [2,14] - Reason: Proximity to QUAKE 
+EVACUATE [3,2] - Reason: Proximity to QUAKE 
+EVACUATE [3,1] - Reason: Proximity to QUAKE 
+EVACUATE [3,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,8] - Reason: Proximity to QUAKE 
+EVACUATE [3,9] - Reason: Proximity to QUAKE 
+EVACUATE [3,11] - Reason: Proximity to QUAKE 
+EVACUATE [4,2] - Reason: Proximity to FLOOD 
+EVACUATE [4,4] - Reason: Proximity to FLOOD 
+EVACUATE [4,6] - Reason: Proximity to FLOOD 
+EVACUATE [4,7] - Reason: Proximity to QUAKE 
+EVACUATE [4,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [4,11] - Reason: Proximity to QUAKE 
+EVACUATE [3,14] - Reason: Proximity to QUAKE 
+EVACUATE [5,0] - Reason: Proximity to HEAT 
+EVACUATE [5,1] - Reason: Proximity to HEAT 
+EVACUATE [5,3] - Reason: Proximity to QUAKE 
+EVACUATE [5,4] - Reason: Proximity to QUAKE 
+EVACUATE [5,6] - Reason: Proximity to HEAT 
+EVACUATE [5,8] - Reason: Proximity to FLOOD 
+EVACUATE [5,11] - Reason: Proximity to QUAKE 
+EVACUATE [6,2] - Reason: Proximity to HEAT 
+EVACUATE [6,1] - Reason: Proximity to HEAT 
+EVACUATE [6,5] - Reason: Proximity to HEAT 
+EVACUATE [6,7] - Reason: Proximity to QUAKE 
+EVACUATE [6,10] - Reason: Proximity to HEAT 
+EVACUATE [6,11] - Reason: Proximity to QUAKE 
+EVACUATE [6,14] - Reason: Proximity to FLOOD 
+EVACUATE [7,3] - Reason: Proximity to HEAT 
+EVACUATE [7,2] - Reason: Proximity to HEAT 
+EVACUATE [7,6] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,11] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [7,13] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [6,0] - Reason: Proximity to HEAT 
+EVACUATE [8,0] - Reason: Proximity to HEAT 
+EVACUATE [8,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,3] - Reason: Proximity to FLOOD 
+EVACUATE [8,5] - Reason: Proximity to FLOOD 
+EVACUATE [8,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [8,9] - Reason: Proximity to FLOOD 
+EVACUATE [8,10] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [8,11] - Reason: Proximity to HEAT 
+EVACUATE [8,12] - Reason: Proximity to FLOOD 
+EVACUATE [9,0] - Reason: Proximity to FLOOD 
+EVACUATE [9,2] - Reason: Proximity to FLOOD 
+EVACUATE [9,3] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [9,7] - Reason: Proximity to QUAKE 
+EVACUATE [9,13] - Reason: Proximity to QUAKE 
+EVACUATE [10,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,5] - Reason: Proximity to QUAKE 
+EVACUATE [10,9] - Reason: Proximity to FLOOD 
+EVACUATE [9,10] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [10,10] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [10,11] - Reason: Proximity to HEAT 
+EVACUATE [10,14] - Reason: Proximity to HEAT 
+EVACUATE [11,0] - Reason: Proximity to HEAT 
+EVACUATE [11,2] - Reason: Proximity to HEAT 
+EVACUATE [11,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [11,5] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [11,6] - Reason: Proximity to HEAT 
+EVACUATE [11,12] - Reason: Proximity to HEAT 
+EVACUATE [11,13] - Reason: Proximity to HEAT 
+EVACUATE [11,14] - Reason: Proximity to HEAT 
+EVACUATE [12,0] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [12,2] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [12,5] - Reason: Proximity to QUAKE 
+EVACUATE [12,7] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,9] - Reason: Proximity to QUAKE 
+EVACUATE [11,10] - Reason: Proximity to HEAT 
+EVACUATE [12,12] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,1] - Reason: Proximity to FLOOD 
+EVACUATE [13,0] - Reason: Proximity to FLOOD 
+EVACUATE [13,2] - Reason: Proximity to FLOOD 
+EVACUATE [13,6] - Reason: Proximity to HEAT 
+EVACUATE [13,9] - Reason: Proximity to HEAT 
+EVACUATE [13,11] - Reason: Proximity to HEAT 
+EVACUATE [13,12] - Reason: Proximity to HEAT 
+EVACUATE [14,2] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [14,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [14,5] - Reason: Proximity to QUAKE 
+EVACUATE [13,8] - Reason: Proximity to FLOOD 
+EVACUATE [14,9] - Reason: Proximity to HEAT 
+EVACUATE [14,11] - Reason: Proximity to HEAT 
+EVACUATE [14,12] - Reason: Proximity to QUAKE 
+
+[ DAY 11 ALERT ]
+EVACUATE [1,1] - Reason: Proximity to HEAT 
+EVACUATE [0,2] - Reason: Proximity to QUAKE 
+EVACUATE [1,2] - Reason: Proximity to QUAKE 
+EVACUATE [1,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,6] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,9] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [0,11] - Reason: Proximity to QUAKE 
+EVACUATE [0,12] - Reason: Proximity to QUAKE 
+EVACUATE [1,12] - Reason: Proximity to QUAKE 
+EVACUATE [2,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,2] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,7] - Reason: Proximity to QUAKE 
+EVACUATE [2,6] - Reason: Proximity to QUAKE 
+EVACUATE [2,9] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,10] - Reason: Proximity to QUAKE 
+EVACUATE [2,11] - Reason: Proximity to QUAKE 
+EVACUATE [2,13] - Reason: Proximity to QUAKE 
+EVACUATE [2,14] - Reason: Proximity to QUAKE 
+EVACUATE [3,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,8] - Reason: Proximity to QUAKE 
+EVACUATE [3,9] - Reason: Proximity to QUAKE 
+EVACUATE [3,11] - Reason: Proximity to QUAKE 
+EVACUATE [3,1] - Reason: Proximity to HEAT 
+EVACUATE [3,2] - Reason: Proximity to FLOOD 
+EVACUATE [4,4] - Reason: Proximity to FLOOD 
+EVACUATE [4,6] - Reason: Proximity to FLOOD 
+EVACUATE [4,7] - Reason: Proximity to QUAKE 
+EVACUATE [4,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,0] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,3] - Reason: Proximity to QUAKE 
+EVACUATE [5,4] - Reason: Proximity to QUAKE 
+EVACUATE [5,6] - Reason: Proximity to HEAT 
+EVACUATE [5,9] - Reason: Proximity to FLOOD 
+EVACUATE [5,8] - Reason: Proximity to FLOOD 
+EVACUATE [6,2] - Reason: Proximity to HEAT 
+EVACUATE [6,1] - Reason: Proximity to HEAT 
+EVACUATE [6,5] - Reason: Proximity to HEAT 
+EVACUATE [6,7] - Reason: Proximity to QUAKE 
+EVACUATE [6,10] - Reason: Proximity to QUAKE 
+EVACUATE [6,11] - Reason: Proximity to QUAKE 
+EVACUATE [7,3] - Reason: Proximity to HEAT 
+EVACUATE [7,2] - Reason: Proximity to HEAT 
+EVACUATE [7,5] - Reason: Proximity to FLOOD 
+EVACUATE [7,6] - Reason: Proximity to FLOOD 
+EVACUATE [7,11] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [7,13] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [6,0] - Reason: Proximity to HEAT 
+EVACUATE [8,0] - Reason: Proximity to HEAT 
+EVACUATE [8,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,3] - Reason: Proximity to FLOOD 
+EVACUATE [8,5] - Reason: Proximity to FLOOD 
+EVACUATE [8,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [8,9] - Reason: Proximity to FLOOD 
+EVACUATE [8,10] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [8,11] - Reason: Proximity to HEAT 
+EVACUATE [8,12] - Reason: Proximity to FLOOD 
+EVACUATE [9,0] - Reason: Proximity to FLOOD 
+EVACUATE [9,2] - Reason: Proximity to FLOOD 
+EVACUATE [9,3] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [9,7] - Reason: Proximity to QUAKE 
+EVACUATE [9,13] - Reason: Proximity to QUAKE 
+EVACUATE [10,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [10,5] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [9,9] - Reason: Proximity to FLOOD 
+EVACUATE [10,9] - Reason: Proximity to FLOOD 
+EVACUATE [10,11] - Reason: Proximity to HEAT 
+EVACUATE [9,10] - Reason: Proximity to HEAT 
+EVACUATE [10,10] - Reason: Proximity to HEAT 
+EVACUATE [10,12] - Reason: Proximity to HEAT 
+EVACUATE [10,14] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [11,0] - Reason: Proximity to HEAT 
+EVACUATE [11,2] - Reason: Proximity to HEAT 
+EVACUATE [11,3] - Reason: Proximity to FLOOD 
+EVACUATE [11,5] - Reason: Proximity to FLOOD 
+EVACUATE [11,6] - Reason: Proximity to HEAT 
+EVACUATE [11,8] - Reason: Proximity to QUAKE 
+EVACUATE [11,13] - Reason: Proximity to HEAT 
+EVACUATE [11,12] - Reason: Proximity to HEAT 
+EVACUATE [11,14] - Reason: Proximity to HEAT 
+EVACUATE [12,0] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [12,2] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [12,4] - Reason: Proximity to QUAKE 
+EVACUATE [12,7] - Reason: Proximity to HEAT 
+EVACUATE [12,8] - Reason: Proximity to HEAT 
+EVACUATE [12,9] - Reason: Proximity to HEAT 
+EVACUATE [11,10] - Reason: Proximity to HEAT 
+EVACUATE [12,12] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,6] - Reason: Proximity to HEAT 
+EVACUATE [13,9] - Reason: Proximity to HEAT 
+EVACUATE [13,11] - Reason: Proximity to HEAT 
+EVACUATE [13,12] - Reason: Proximity to HEAT 
+EVACUATE [14,2] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [14,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [14,5] - Reason: Proximity to QUAKE 
+EVACUATE [13,8] - Reason: Proximity to FLOOD 
+EVACUATE [14,9] - Reason: Proximity to HEAT 
+EVACUATE [14,11] - Reason: Proximity to HEAT 
+EVACUATE [12,13] - Reason: Proximity to QUAKE 
+EVACUATE [12,14] - Reason: Proximity to QUAKE 
+EVACUATE [14,12] - Reason: Proximity to QUAKE 
+
+[ DAY 12 ALERT ]
+EVACUATE [1,1] - Reason: Proximity to QUAKE 
+EVACUATE [0,0] - Reason: Proximity to QUAKE 
+EVACUATE [1,2] - Reason: Proximity to QUAKE 
+EVACUATE [0,3] - Reason: Proximity to HEAT 
+EVACUATE [1,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,6] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,6] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,9] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [1,10] - Reason: Proximity to FLOOD 
+EVACUATE [0,11] - Reason: Proximity to QUAKE 
+EVACUATE [0,12] - Reason: Proximity to QUAKE 
+EVACUATE [1,12] - Reason: Proximity to QUAKE 
+EVACUATE [2,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,3] - Reason: Proximity to FLOOD 
+EVACUATE [2,2] - Reason: Proximity to FLOOD 
+EVACUATE [2,4] - Reason: Proximity to FLOOD 
+EVACUATE [2,7] - Reason: Proximity to QUAKE 
+EVACUATE [2,6] - Reason: Proximity to QUAKE 
+EVACUATE [2,9] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,11] - Reason: Proximity to FLOOD 
+EVACUATE [2,10] - Reason: Proximity to FLOOD 
+EVACUATE [2,13] - Reason: Proximity to QUAKE 
+EVACUATE [2,14] - Reason: Proximity to QUAKE 
+EVACUATE [3,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,8] - Reason: Proximity to QUAKE 
+EVACUATE [3,7] - Reason: Proximity to QUAKE 
+EVACUATE [3,9] - Reason: Proximity to QUAKE 
+EVACUATE [3,11] - Reason: Proximity to QUAKE 
+EVACUATE [3,2] - Reason: Proximity to QUAKE 
+EVACUATE [4,2] - Reason: Proximity to QUAKE 
+EVACUATE [4,4] - Reason: Proximity to FLOOD 
+EVACUATE [4,6] - Reason: Proximity to FLOOD 
+EVACUATE [4,7] - Reason: Proximity to QUAKE 
+EVACUATE [3,14] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,0] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,3] - Reason: Proximity to QUAKE 
+EVACUATE [5,4] - Reason: Proximity to QUAKE 
+EVACUATE [5,6] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [4,8] - Reason: Proximity to FLOOD 
+EVACUATE [5,8] - Reason: Proximity to FLOOD 
+EVACUATE [5,10] - Reason: Proximity to FLOOD 
+EVACUATE [6,2] - Reason: Proximity to HEAT 
+EVACUATE [6,1] - Reason: Proximity to HEAT 
+EVACUATE [6,5] - Reason: Proximity to HEAT 
+EVACUATE [6,7] - Reason: Proximity to QUAKE 
+EVACUATE [6,10] - Reason: Proximity to HEAT 
+EVACUATE [6,11] - Reason: Proximity to FLOOD 
+EVACUATE [6,14] - Reason: Proximity to FLOOD 
+EVACUATE [7,3] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [7,2] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [7,5] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,6] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,11] - Reason: Proximity to FLOOD 
+EVACUATE [7,13] - Reason: Proximity to FLOOD 
+EVACUATE [6,0] - Reason: Proximity to HEAT 
+EVACUATE [8,0] - Reason: Proximity to HEAT 
+EVACUATE [8,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,3] - Reason: Proximity to FLOOD 
+EVACUATE [8,5] - Reason: Proximity to FLOOD 
+EVACUATE [8,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [8,9] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [8,10] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [8,11] - Reason: Proximity to HEAT 
+EVACUATE [8,12] - Reason: Proximity to FLOOD 
+EVACUATE [9,0] - Reason: Proximity to FLOOD 
+EVACUATE [9,2] - Reason: Proximity to FLOOD 
+EVACUATE [9,7] - Reason: Proximity to QUAKE 
+EVACUATE [9,13] - Reason: Proximity to QUAKE 
+EVACUATE [10,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,5] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [10,9] - Reason: Proximity to FLOOD 
+EVACUATE [9,10] - Reason: Proximity to QUAKE 
+EVACUATE [10,10] - Reason: Proximity to QUAKE 
+EVACUATE [10,11] - Reason: Proximity to HEAT 
+EVACUATE [10,12] - Reason: Proximity to HEAT 
+EVACUATE [10,14] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [11,0] - Reason: Proximity to HEAT 
+EVACUATE [11,2] - Reason: Proximity to HEAT 
+EVACUATE [11,3] - Reason: Proximity to FLOOD 
+EVACUATE [11,5] - Reason: Proximity to FLOOD 
+EVACUATE [11,6] - Reason: Proximity to HEAT 
+EVACUATE [11,8] - Reason: Proximity to QUAKE 
+EVACUATE [11,13] - Reason: Proximity to HEAT 
+EVACUATE [11,12] - Reason: Proximity to HEAT 
+EVACUATE [11,14] - Reason: Proximity to HEAT 
+EVACUATE [12,0] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [12,2] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [12,4] - Reason: Proximity to QUAKE 
+EVACUATE [12,7] - Reason: Proximity to HEAT 
+EVACUATE [12,8] - Reason: Proximity to HEAT 
+EVACUATE [12,9] - Reason: Proximity to HEAT 
+EVACUATE [11,10] - Reason: Proximity to HEAT 
+EVACUATE [12,12] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,1] - Reason: Proximity to FLOOD 
+EVACUATE [13,0] - Reason: Proximity to FLOOD 
+EVACUATE [13,6] - Reason: Proximity to HEAT 
+EVACUATE [13,9] - Reason: Proximity to HEAT 
+EVACUATE [13,11] - Reason: Proximity to HEAT 
+EVACUATE [13,12] - Reason: Proximity to HEAT 
+EVACUATE [14,2] - Reason: Proximity to QUAKE 
+EVACUATE [14,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [14,5] - Reason: Proximity to QUAKE 
+EVACUATE [13,8] - Reason: Proximity to FLOOD 
+EVACUATE [14,9] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,13] - Reason: Proximity to QUAKE 
+EVACUATE [12,14] - Reason: Proximity to QUAKE 
+EVACUATE [14,12] - Reason: Proximity to QUAKE 
+
+[ DAY 13 ALERT ]
+EVACUATE [1,1] - Reason: Proximity to HEAT 
+EVACUATE [1,2] - Reason: Proximity to QUAKE 
+EVACUATE [0,3] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,6] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,9] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [1,10] - Reason: Proximity to FLOOD 
+EVACUATE [0,12] - Reason: Proximity to FLOOD 
+EVACUATE [1,12] - Reason: Proximity to FLOOD 
+EVACUATE [2,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,2] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,7] - Reason: Proximity to QUAKE 
+EVACUATE [2,6] - Reason: Proximity to QUAKE 
+EVACUATE [2,9] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,11] - Reason: Proximity to FLOOD 
+EVACUATE [2,10] - Reason: Proximity to FLOOD 
+EVACUATE [2,13] - Reason: Proximity to QUAKE 
+EVACUATE [2,14] - Reason: Proximity to QUAKE 
+EVACUATE [3,1] - Reason: Proximity to QUAKE 
+EVACUATE [3,4] - Reason: Proximity to FLOOD 
+EVACUATE [3,8] - Reason: Proximity to QUAKE 
+EVACUATE [3,9] - Reason: Proximity to QUAKE 
+EVACUATE [3,11] - Reason: Proximity to QUAKE 
+EVACUATE [3,2] - Reason: Proximity to FLOOD 
+EVACUATE [4,4] - Reason: Proximity to FLOOD 
+EVACUATE [4,6] - Reason: Proximity to FLOOD 
+EVACUATE [4,7] - Reason: Proximity to QUAKE 
+EVACUATE [4,8] - Reason: Proximity to QUAKE 
+EVACUATE [4,10] - Reason: Proximity to QUAKE 
+EVACUATE [3,14] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,0] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,3] - Reason: Proximity to QUAKE 
+EVACUATE [5,4] - Reason: Proximity to QUAKE 
+EVACUATE [5,5] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,6] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,8] - Reason: Proximity to FLOOD 
+EVACUATE [5,11] - Reason: Proximity to QUAKE 
+EVACUATE [6,2] - Reason: Proximity to HEAT 
+EVACUATE [6,1] - Reason: Proximity to HEAT 
+EVACUATE [6,10] - Reason: Proximity to HEAT 
+EVACUATE [6,11] - Reason: Proximity to QUAKE 
+EVACUATE [7,3] - Reason: Proximity to HEAT 
+EVACUATE [7,2] - Reason: Proximity to HEAT 
+EVACUATE [6,5] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,6] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,11] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [7,13] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [6,0] - Reason: Proximity to HEAT 
+EVACUATE [8,0] - Reason: Proximity to HEAT 
+EVACUATE [8,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,3] - Reason: Proximity to FLOOD 
+EVACUATE [8,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [8,9] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [8,10] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [8,11] - Reason: Proximity to HEAT 
+EVACUATE [8,12] - Reason: Proximity to FLOOD 
+EVACUATE [8,14] - Reason: Proximity to FLOOD 
+EVACUATE [9,0] - Reason: Proximity to FLOOD 
+EVACUATE [9,2] - Reason: Proximity to FLOOD 
+EVACUATE [9,7] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [9,13] - Reason: Proximity to QUAKE 
+EVACUATE [10,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,3] - Reason: Proximity to HEAT 
+EVACUATE [10,5] - Reason: Proximity to FLOOD 
+EVACUATE [9,9] - Reason: Proximity to FLOOD 
+EVACUATE [10,9] - Reason: Proximity to FLOOD 
+EVACUATE [10,11] - Reason: Proximity to HEAT 
+EVACUATE [9,10] - Reason: Proximity to HEAT 
+EVACUATE [10,10] - Reason: Proximity to HEAT 
+EVACUATE [10,12] - Reason: Proximity to HEAT 
+EVACUATE [10,14] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [11,0] - Reason: Proximity to HEAT 
+EVACUATE [11,2] - Reason: Proximity to HEAT 
+EVACUATE [11,3] - Reason: Proximity to FLOOD 
+EVACUATE [11,5] - Reason: Proximity to FLOOD 
+EVACUATE [11,8] - Reason: Proximity to QUAKE 
+EVACUATE [11,13] - Reason: Proximity to HEAT 
+EVACUATE [11,12] - Reason: Proximity to HEAT 
+EVACUATE [11,14] - Reason: Proximity to HEAT 
+EVACUATE [12,0] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [12,2] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [12,4] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [12,7] - Reason: Proximity to FLOOD 
+EVACUATE [12,8] - Reason: Proximity to HEAT 
+EVACUATE [12,9] - Reason: Proximity to HEAT 
+EVACUATE [11,10] - Reason: Proximity to HEAT 
+EVACUATE [12,12] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,4] - Reason: Proximity to FLOOD 
+EVACUATE [13,6] - Reason: Proximity to HEAT 
+EVACUATE [13,9] - Reason: Proximity to HEAT 
+EVACUATE [13,11] - Reason: Proximity to HEAT 
+EVACUATE [13,12] - Reason: Proximity to HEAT 
+EVACUATE [12,13] - Reason: Proximity to HEAT 
+EVACUATE [14,2] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [14,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [13,8] - Reason: Proximity to FLOOD 
+EVACUATE [14,9] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [14,11] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [14,12] - Reason: Proximity to QUAKE 
+
+[ DAY 14 ALERT ]
+EVACUATE [1,2] - Reason: Proximity to FLOOD 
+EVACUATE [0,1] - Reason: Proximity to FLOOD 
+EVACUATE [0,3] - Reason: Proximity to FLOOD 
+EVACUATE [1,1] - Reason: Proximity to FLOOD 
+EVACUATE [1,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,6] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,9] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [1,10] - Reason: Proximity to FLOOD 
+EVACUATE [0,11] - Reason: Proximity to QUAKE 
+EVACUATE [0,12] - Reason: Proximity to QUAKE 
+EVACUATE [1,12] - Reason: Proximity to QUAKE 
+EVACUATE [0,0] - Reason: Proximity to HEAT 
+EVACUATE [2,0] - Reason: Proximity to HEAT 
+EVACUATE [2,1] - Reason: Proximity to HEAT 
+EVACUATE [2,3] - Reason: Proximity to FLOOD 
+EVACUATE [2,2] - Reason: Proximity to FLOOD 
+EVACUATE [2,4] - Reason: Proximity to FLOOD 
+EVACUATE [2,7] - Reason: Proximity to QUAKE 
+EVACUATE [2,9] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,11] - Reason: Proximity to FLOOD 
+EVACUATE [2,10] - Reason: Proximity to FLOOD 
+EVACUATE [2,13] - Reason: Proximity to QUAKE 
+EVACUATE [2,14] - Reason: Proximity to QUAKE 
+EVACUATE [3,8] - Reason: Proximity to QUAKE 
+EVACUATE [3,9] - Reason: Proximity to QUAKE 
+EVACUATE [3,11] - Reason: Proximity to QUAKE 
+EVACUATE [3,1] - Reason: Proximity to HEAT 
+EVACUATE [3,2] - Reason: Proximity to FLOOD 
+EVACUATE [4,4] - Reason: Proximity to FLOOD 
+EVACUATE [4,6] - Reason: Proximity to FLOOD 
+EVACUATE [4,7] - Reason: Proximity to QUAKE 
+EVACUATE [4,8] - Reason: Proximity to QUAKE 
+EVACUATE [4,10] - Reason: Proximity to QUAKE 
+EVACUATE [3,14] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,0] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,3] - Reason: Proximity to QUAKE 
+EVACUATE [5,6] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,8] - Reason: Proximity to FLOOD 
+EVACUATE [5,10] - Reason: Proximity to FLOOD 
+EVACUATE [5,11] - Reason: Proximity to QUAKE 
+EVACUATE [6,2] - Reason: Proximity to HEAT 
+EVACUATE [6,1] - Reason: Proximity to HEAT 
+EVACUATE [6,5] - Reason: Proximity to QUAKE 
+EVACUATE [6,10] - Reason: Proximity to HEAT 
+EVACUATE [6,11] - Reason: Proximity to HEAT 
+EVACUATE [7,3] - Reason: Proximity to HEAT 
+EVACUATE [7,2] - Reason: Proximity to HEAT 
+EVACUATE [7,5] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,6] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,11] - Reason: Proximity to FLOOD 
+EVACUATE [7,13] - Reason: Proximity to FLOOD 
+EVACUATE [6,0] - Reason: Proximity to HEAT 
+EVACUATE [8,0] - Reason: Proximity to HEAT 
+EVACUATE [8,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,3] - Reason: Proximity to FLOOD 
+EVACUATE [8,5] - Reason: Proximity to FLOOD 
+EVACUATE [8,8] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [8,9] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [8,10] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [8,11] - Reason: Proximity to HEAT 
+EVACUATE [8,12] - Reason: Proximity to FLOOD 
+EVACUATE [8,14] - Reason: Proximity to FLOOD 
+EVACUATE [9,0] - Reason: Proximity to FLOOD 
+EVACUATE [9,2] - Reason: Proximity to FLOOD 
+EVACUATE [9,7] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [9,13] - Reason: Proximity to QUAKE 
+EVACUATE [9,12] - Reason: Proximity to QUAKE 
+EVACUATE [10,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,5] - Reason: Proximity to FLOOD 
+EVACUATE [10,7] - Reason: Proximity to FLOOD 
+EVACUATE [10,8] - Reason: Proximity to FLOOD 
+EVACUATE [9,9] - Reason: Proximity to FLOOD 
+EVACUATE [10,9] - Reason: Proximity to FLOOD 
+EVACUATE [10,11] - Reason: Proximity to HEAT 
+EVACUATE [9,10] - Reason: Proximity to HEAT 
+EVACUATE [10,10] - Reason: Proximity to HEAT 
+EVACUATE [10,12] - Reason: Proximity to HEAT 
+EVACUATE [10,14] - Reason: Proximity to HEAT 
+EVACUATE [11,0] - Reason: Proximity to HEAT 
+EVACUATE [11,2] - Reason: Proximity to HEAT 
+EVACUATE [11,3] - Reason: Proximity to QUAKE 
+EVACUATE [11,5] - Reason: Proximity to FLOOD 
+EVACUATE [11,13] - Reason: Proximity to HEAT 
+EVACUATE [11,12] - Reason: Proximity to HEAT 
+EVACUATE [12,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [12,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [12,4] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,5] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [12,7] - Reason: Proximity to FLOOD 
+EVACUATE [11,8] - Reason: Proximity to HEAT 
+EVACUATE [12,8] - Reason: Proximity to HEAT 
+EVACUATE [12,9] - Reason: Proximity to HEAT 
+EVACUATE [11,10] - Reason: Proximity to HEAT 
+EVACUATE [12,13] - Reason: Proximity to FLOOD 
+EVACUATE [13,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,4] - Reason: Proximity to FLOOD 
+EVACUATE [13,6] - Reason: Proximity to HEAT 
+EVACUATE [13,9] - Reason: Proximity to HEAT 
+EVACUATE [13,11] - Reason: Proximity to HEAT 
+EVACUATE [13,12] - Reason: Proximity to HEAT 
+EVACUATE [14,2] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [14,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [14,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,8] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [14,8] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [14,9] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [14,12] - Reason: Proximity to QUAKE 
+
+[ DAY 15 ALERT ]
+EVACUATE [1,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,3] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,6] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,9] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [1,10] - Reason: Proximity to FLOOD 
+EVACUATE [0,12] - Reason: Proximity to FLOOD 
+EVACUATE [0,0] - Reason: Proximity to HEAT 
+EVACUATE [2,0] - Reason: Proximity to HEAT 
+EVACUATE [2,1] - Reason: Proximity to HEAT 
+EVACUATE [2,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,7] - Reason: Proximity to QUAKE 
+EVACUATE [2,6] - Reason: Proximity to QUAKE 
+EVACUATE [2,9] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,11] - Reason: Proximity to FLOOD 
+EVACUATE [2,10] - Reason: Proximity to FLOOD 
+EVACUATE [2,13] - Reason: Proximity to HEAT 
+EVACUATE [2,14] - Reason: Proximity to QUAKE 
+EVACUATE [3,1] - Reason: Proximity to QUAKE 
+EVACUATE [3,8] - Reason: Proximity to QUAKE 
+EVACUATE [3,9] - Reason: Proximity to QUAKE 
+EVACUATE [3,11] - Reason: Proximity to QUAKE 
+EVACUATE [4,4] - Reason: Proximity to FLOOD 
+EVACUATE [4,6] - Reason: Proximity to FLOOD 
+EVACUATE [4,7] - Reason: Proximity to QUAKE 
+EVACUATE [4,8] - Reason: Proximity to QUAKE 
+EVACUATE [3,14] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,0] - Reason: Proximity to HEAT 
+EVACUATE [5,1] - Reason: Proximity to HEAT 
+EVACUATE [5,2] - Reason: Proximity to HEAT 
+EVACUATE [5,3] - Reason: Proximity to QUAKE 
+EVACUATE [5,6] - Reason: Proximity to QUAKE 
+EVACUATE [5,8] - Reason: Proximity to FLOOD 
+EVACUATE [5,10] - Reason: Proximity to FLOOD 
+EVACUATE [6,5] - Reason: Proximity to QUAKE 
+EVACUATE [6,7] - Reason: Proximity to QUAKE 
+EVACUATE [6,10] - Reason: Proximity to HEAT 
+EVACUATE [6,11] - Reason: Proximity to FLOOD 
+EVACUATE [6,14] - Reason: Proximity to FLOOD 
+EVACUATE [7,3] - Reason: Proximity to HEAT 
+EVACUATE [6,2] - Reason: Proximity to HEAT 
+EVACUATE [7,2] - Reason: Proximity to HEAT 
+EVACUATE [7,5] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,6] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,11] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [7,13] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [6,0] - Reason: Proximity to HEAT 
+EVACUATE [8,0] - Reason: Proximity to HEAT 
+EVACUATE [6,1] - Reason: Proximity to HEAT 
+EVACUATE [8,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,3] - Reason: Proximity to FLOOD 
+EVACUATE [8,5] - Reason: Proximity to FLOOD 
+EVACUATE [8,10] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [8,12] - Reason: Proximity to FLOOD 
+EVACUATE [8,14] - Reason: Proximity to FLOOD 
+EVACUATE [9,2] - Reason: Proximity to FLOOD 
+EVACUATE [9,7] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [9,10] - Reason: Proximity to HEAT 
+EVACUATE [9,12] - Reason: Proximity to HEAT 
+EVACUATE [9,13] - Reason: Proximity to QUAKE 
+EVACUATE [9,14] - Reason: Proximity to QUAKE 
+EVACUATE [10,0] - Reason: Proximity to FLOOD 
+EVACUATE [10,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,3] - Reason: Proximity to HEAT 
+EVACUATE [10,5] - Reason: Proximity to FLOOD 
+EVACUATE [10,7] - Reason: Proximity to FLOOD 
+EVACUATE [10,8] - Reason: Proximity to FLOOD 
+EVACUATE [10,9] - Reason: Proximity to FLOOD 
+EVACUATE [10,10] - Reason: Proximity to HEAT 
+EVACUATE [10,11] - Reason: Proximity to HEAT 
+EVACUATE [10,12] - Reason: Proximity to HEAT 
+EVACUATE [11,0] - Reason: Proximity to HEAT 
+EVACUATE [11,2] - Reason: Proximity to HEAT 
+EVACUATE [11,3] - Reason: Proximity to FLOOD 
+EVACUATE [11,5] - Reason: Proximity to FLOOD 
+EVACUATE [11,7] - Reason: Proximity to HEAT 
+EVACUATE [11,13] - Reason: Proximity to HEAT 
+EVACUATE [10,14] - Reason: Proximity to HEAT 
+EVACUATE [11,12] - Reason: Proximity to HEAT 
+EVACUATE [12,0] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [12,2] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [12,4] - Reason: Proximity to QUAKE 
+EVACUATE [12,7] - Reason: Proximity to FLOOD 
+EVACUATE [12,9] - Reason: Proximity to HEAT 
+EVACUATE [11,8] - Reason: Proximity to HEAT 
+EVACUATE [11,10] - Reason: Proximity to HEAT 
+EVACUATE [12,8] - Reason: Proximity to HEAT 
+EVACUATE [12,14] - Reason: Proximity to FLOOD 
+EVACUATE [13,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,6] - Reason: Proximity to HEAT 
+EVACUATE [13,9] - Reason: Proximity to HEAT 
+EVACUATE [13,11] - Reason: Proximity to HEAT 
+EVACUATE [13,12] - Reason: Proximity to HEAT 
+EVACUATE [14,2] - Reason: Proximity to FLOOD 
+EVACUATE [14,4] - Reason: Proximity to FLOOD 
+EVACUATE [14,5] - Reason: Proximity to QUAKE 
+EVACUATE [13,8] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [14,9] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [14,12] - Reason: Proximity to QUAKE 
+
+[ DAY 16 ALERT ]
+EVACUATE [1,2] - Reason: Proximity to HEAT 
+EVACUATE [0,1] - Reason: Proximity to HEAT 
+EVACUATE [0,3] - Reason: Proximity to HEAT 
+EVACUATE [1,1] - Reason: Proximity to HEAT 
+EVACUATE [1,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,6] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,9] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [1,10] - Reason: Proximity to FLOOD 
+EVACUATE [0,12] - Reason: Proximity to FLOOD 
+EVACUATE [1,13] - Reason: Proximity to QUAKE 
+EVACUATE [0,0] - Reason: Proximity to HEAT 
+EVACUATE [2,0] - Reason: Proximity to HEAT 
+EVACUATE [2,1] - Reason: Proximity to HEAT 
+EVACUATE [2,3] - Reason: Proximity to FLOOD 
+EVACUATE [2,7] - Reason: Proximity to QUAKE 
+EVACUATE [2,9] - Reason: Proximity to FLOOD 
+EVACUATE [2,11] - Reason: Proximity to FLOOD 
+EVACUATE [2,10] - Reason: Proximity to FLOOD 
+EVACUATE [2,13] - Reason: Proximity to HEAT 
+EVACUATE [2,14] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [3,1] - Reason: Proximity to QUAKE 
+EVACUATE [3,4] - Reason: Proximity to FLOOD 
+EVACUATE [3,8] - Reason: Proximity to QUAKE 
+EVACUATE [3,12] - Reason: Proximity to QUAKE 
+EVACUATE [3,11] - Reason: Proximity to QUAKE 
+EVACUATE [4,4] - Reason: Proximity to FLOOD 
+EVACUATE [4,6] - Reason: Proximity to FLOOD 
+EVACUATE [4,7] - Reason: Proximity to QUAKE 
+EVACUATE [4,8] - Reason: Proximity to QUAKE 
+EVACUATE [4,10] - Reason: Proximity to QUAKE 
+EVACUATE [3,14] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,3] - Reason: Proximity to QUAKE 
+EVACUATE [5,6] - Reason: Proximity to QUAKE 
+EVACUATE [5,8] - Reason: Proximity to FLOOD 
+EVACUATE [5,10] - Reason: Proximity to FLOOD 
+EVACUATE [5,11] - Reason: Proximity to QUAKE 
+EVACUATE [5,13] - Reason: Proximity to HEAT 
+EVACUATE [6,0] - Reason: Proximity to HEAT 
+EVACUATE [6,1] - Reason: Proximity to HEAT 
+EVACUATE [6,2] - Reason: Proximity to HEAT 
+EVACUATE [6,5] - Reason: Proximity to QUAKE 
+EVACUATE [6,8] - Reason: Proximity to QUAKE 
+EVACUATE [6,10] - Reason: Proximity to HEAT 
+EVACUATE [6,14] - Reason: Proximity to FLOOD 
+EVACUATE [7,3] - Reason: Proximity to HEAT 
+EVACUATE [7,2] - Reason: Proximity to HEAT 
+EVACUATE [7,4] - Reason: Proximity to HEAT 
+EVACUATE [7,5] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,6] - Reason: Proximity to FLOOD 
+EVACUATE [7,11] - Reason: Proximity to HEAT 
+EVACUATE [7,13] - Reason: Proximity to FLOOD 
+EVACUATE [7,14] - Reason: Proximity to QUAKE 
+EVACUATE [8,0] - Reason: Proximity to HEAT 
+EVACUATE [8,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,10] - Reason: Proximity to HEAT 
+EVACUATE [8,12] - Reason: Proximity to FLOOD 
+EVACUATE [9,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,3] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [8,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [9,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [9,7] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [9,10] - Reason: Proximity to HEAT 
+EVACUATE [9,12] - Reason: Proximity to HEAT 
+EVACUATE [9,13] - Reason: Proximity to QUAKE 
+EVACUATE [10,0] - Reason: Proximity to FLOOD 
+EVACUATE [10,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,5] - Reason: Proximity to FLOOD 
+EVACUATE [10,7] - Reason: Proximity to FLOOD 
+EVACUATE [10,8] - Reason: Proximity to FLOOD 
+EVACUATE [10,9] - Reason: Proximity to FLOOD 
+EVACUATE [10,10] - Reason: Proximity to HEAT 
+EVACUATE [10,11] - Reason: Proximity to HEAT 
+EVACUATE [10,12] - Reason: Proximity to HEAT 
+EVACUATE [11,0] - Reason: Proximity to HEAT 
+EVACUATE [11,2] - Reason: Proximity to HEAT 
+EVACUATE [11,3] - Reason: Proximity to QUAKE 
+EVACUATE [11,5] - Reason: Proximity to FLOOD 
+EVACUATE [11,13] - Reason: Proximity to HEAT 
+EVACUATE [11,12] - Reason: Proximity to HEAT 
+EVACUATE [12,0] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [12,2] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [12,4] - Reason: Proximity to QUAKE 
+EVACUATE [12,6] - Reason: Proximity to FLOOD 
+EVACUATE [12,7] - Reason: Proximity to FLOOD 
+EVACUATE [11,8] - Reason: Proximity to HEAT 
+EVACUATE [12,8] - Reason: Proximity to HEAT 
+EVACUATE [12,9] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [11,10] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [12,13] - Reason: Proximity to FLOOD 
+EVACUATE [13,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,6] - Reason: Proximity to HEAT 
+EVACUATE [13,9] - Reason: Proximity to HEAT 
+EVACUATE [13,11] - Reason: Proximity to HEAT 
+EVACUATE [13,12] - Reason: Proximity to HEAT 
+EVACUATE [14,2] - Reason: Proximity to QUAKE 
+EVACUATE [14,4] - Reason: Proximity to FLOOD 
+EVACUATE [14,5] - Reason: Proximity to QUAKE 
+EVACUATE [13,8] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [14,9] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [14,12] - Reason: Proximity to QUAKE 
+
+[ DAY 17 ALERT ]
+EVACUATE [1,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,3] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,6] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,9] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [1,10] - Reason: Proximity to FLOOD 
+EVACUATE [0,12] - Reason: Proximity to FLOOD 
+EVACUATE [1,13] - Reason: Proximity to QUAKE 
+EVACUATE [0,0] - Reason: Proximity to HEAT 
+EVACUATE [2,0] - Reason: Proximity to HEAT 
+EVACUATE [2,1] - Reason: Proximity to HEAT 
+EVACUATE [2,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,7] - Reason: Proximity to QUAKE 
+EVACUATE [2,9] - Reason: Proximity to FLOOD 
+EVACUATE [2,11] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,10] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,13] - Reason: Proximity to HEAT 
+EVACUATE [2,14] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [3,1] - Reason: Proximity to QUAKE 
+EVACUATE [3,8] - Reason: Proximity to QUAKE 
+EVACUATE [3,12] - Reason: Proximity to QUAKE 
+EVACUATE [3,11] - Reason: Proximity to QUAKE 
+EVACUATE [4,2] - Reason: Proximity to QUAKE 
+EVACUATE [4,4] - Reason: Proximity to FLOOD 
+EVACUATE [4,6] - Reason: Proximity to FLOOD 
+EVACUATE [4,7] - Reason: Proximity to QUAKE 
+EVACUATE [4,8] - Reason: Proximity to QUAKE 
+EVACUATE [3,14] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,3] - Reason: Proximity to QUAKE 
+EVACUATE [5,6] - Reason: Proximity to QUAKE 
+EVACUATE [5,8] - Reason: Proximity to FLOOD 
+EVACUATE [5,10] - Reason: Proximity to FLOOD 
+EVACUATE [5,13] - Reason: Proximity to HEAT 
+EVACUATE [6,0] - Reason: Proximity to HEAT 
+EVACUATE [6,1] - Reason: Proximity to HEAT 
+EVACUATE [6,2] - Reason: Proximity to HEAT 
+EVACUATE [6,5] - Reason: Proximity to QUAKE 
+EVACUATE [6,8] - Reason: Proximity to QUAKE 
+EVACUATE [6,10] - Reason: Proximity to HEAT 
+EVACUATE [6,14] - Reason: Proximity to FLOOD 
+EVACUATE [7,3] - Reason: Proximity to HEAT 
+EVACUATE [7,2] - Reason: Proximity to HEAT 
+EVACUATE [7,4] - Reason: Proximity to HEAT 
+EVACUATE [7,5] - Reason: Proximity to QUAKE 
+EVACUATE [7,6] - Reason: Proximity to FLOOD 
+EVACUATE [7,7] - Reason: Proximity to FLOOD 
+EVACUATE [7,11] - Reason: Proximity to HEAT 
+EVACUATE [7,13] - Reason: Proximity to FLOOD 
+EVACUATE [7,14] - Reason: Proximity to QUAKE 
+EVACUATE [8,0] - Reason: Proximity to HEAT 
+EVACUATE [8,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,10] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [8,12] - Reason: Proximity to FLOOD 
+EVACUATE [9,2] - Reason: Proximity to FLOOD 
+EVACUATE [9,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [8,3] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [8,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [9,7] - Reason: Proximity to QUAKE 
+EVACUATE [9,10] - Reason: Proximity to HEAT 
+EVACUATE [9,12] - Reason: Proximity to HEAT 
+EVACUATE [9,13] - Reason: Proximity to QUAKE 
+EVACUATE [10,0] - Reason: Proximity to FLOOD 
+EVACUATE [10,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,3] - Reason: Proximity to HEAT 
+EVACUATE [10,5] - Reason: Proximity to HEAT 
+EVACUATE [10,7] - Reason: Proximity to FLOOD 
+EVACUATE [10,8] - Reason: Proximity to FLOOD 
+EVACUATE [10,9] - Reason: Proximity to FLOOD 
+EVACUATE [10,10] - Reason: Proximity to HEAT 
+EVACUATE [10,11] - Reason: Proximity to HEAT 
+EVACUATE [11,0] - Reason: Proximity to HEAT 
+EVACUATE [11,2] - Reason: Proximity to HEAT 
+EVACUATE [11,3] - Reason: Proximity to FLOOD 
+EVACUATE [11,5] - Reason: Proximity to FLOOD 
+EVACUATE [11,12] - Reason: Proximity to HEAT 
+EVACUATE [11,13] - Reason: Proximity to HEAT 
+EVACUATE [12,0] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [12,2] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [12,4] - Reason: Proximity to QUAKE 
+EVACUATE [12,6] - Reason: Proximity to FLOOD 
+EVACUATE [12,7] - Reason: Proximity to FLOOD 
+EVACUATE [11,8] - Reason: Proximity to HEAT 
+EVACUATE [12,8] - Reason: Proximity to HEAT 
+EVACUATE [12,9] - Reason: Proximity to HEAT 
+EVACUATE [12,10] - Reason: Proximity to HEAT 
+EVACUATE [12,13] - Reason: Proximity to FLOOD 
+EVACUATE [13,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,6] - Reason: Proximity to HEAT 
+EVACUATE [13,11] - Reason: Proximity to HEAT 
+EVACUATE [13,12] - Reason: Proximity to HEAT 
+EVACUATE [13,13] - Reason: Proximity to HEAT 
+EVACUATE [14,2] - Reason: Proximity to FLOOD 
+EVACUATE [14,4] - Reason: Proximity to FLOOD 
+EVACUATE [13,8] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,9] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [14,9] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [14,11] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [14,12] - Reason: Proximity to FLOOD 
+
+[ DAY 18 ALERT ]
+EVACUATE [1,2] - Reason: Proximity to HEAT 
+EVACUATE [0,1] - Reason: Proximity to HEAT 
+EVACUATE [0,3] - Reason: Proximity to HEAT 
+EVACUATE [1,1] - Reason: Proximity to HEAT 
+EVACUATE [1,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,6] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,9] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,10] - Reason: Proximity to FLOOD 
+EVACUATE [0,12] - Reason: Proximity to FLOOD 
+EVACUATE [0,13] - Reason: Proximity to QUAKE 
+EVACUATE [1,13] - Reason: Proximity to QUAKE 
+EVACUATE [0,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,7] - Reason: Proximity to QUAKE 
+EVACUATE [2,9] - Reason: Proximity to FLOOD 
+EVACUATE [2,11] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,10] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,13] - Reason: Proximity to HEAT 
+EVACUATE [2,14] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [3,1] - Reason: Proximity to QUAKE 
+EVACUATE [3,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,6] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [3,8] - Reason: Proximity to QUAKE 
+EVACUATE [3,12] - Reason: Proximity to QUAKE 
+EVACUATE [3,11] - Reason: Proximity to QUAKE 
+EVACUATE [4,2] - Reason: Proximity to QUAKE 
+EVACUATE [4,3] - Reason: Proximity to QUAKE 
+EVACUATE [4,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [4,6] - Reason: Proximity to FLOOD 
+EVACUATE [4,7] - Reason: Proximity to QUAKE 
+EVACUATE [4,8] - Reason: Proximity to QUAKE 
+EVACUATE [3,10] - Reason: Proximity to QUAKE 
+EVACUATE [3,14] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,2] - Reason: Proximity to HEAT 
+EVACUATE [5,6] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,8] - Reason: Proximity to FLOOD 
+EVACUATE [5,10] - Reason: Proximity to FLOOD 
+EVACUATE [5,13] - Reason: Proximity to HEAT 
+EVACUATE [6,0] - Reason: Proximity to HEAT 
+EVACUATE [5,3] - Reason: Proximity to QUAKE 
+EVACUATE [6,5] - Reason: Proximity to QUAKE 
+EVACUATE [6,8] - Reason: Proximity to HEAT 
+EVACUATE [6,10] - Reason: Proximity to HEAT 
+EVACUATE [6,13] - Reason: Proximity to HEAT 
+EVACUATE [6,14] - Reason: Proximity to FLOOD 
+EVACUATE [6,2] - Reason: Proximity to QUAKE 
+EVACUATE [7,2] - Reason: Proximity to QUAKE 
+EVACUATE [7,3] - Reason: Proximity to HEAT 
+EVACUATE [7,4] - Reason: Proximity to HEAT 
+EVACUATE [7,5] - Reason: Proximity to QUAKE 
+EVACUATE [7,6] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [5,7] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,7] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,10] - Reason: Proximity to FLOOD 
+EVACUATE [7,13] - Reason: Proximity to FLOOD 
+EVACUATE [8,0] - Reason: Proximity to HEAT 
+EVACUATE [8,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,10] - Reason: Proximity to HEAT 
+EVACUATE [8,12] - Reason: Proximity to QUAKE 
+EVACUATE [9,2] - Reason: Proximity to FLOOD 
+EVACUATE [9,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [8,3] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [9,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [9,10] - Reason: Proximity to HEAT 
+EVACUATE [9,13] - Reason: Proximity to QUAKE 
+EVACUATE [7,14] - Reason: Proximity to QUAKE 
+EVACUATE [10,0] - Reason: Proximity to FLOOD 
+EVACUATE [10,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,5] - Reason: Proximity to FLOOD 
+EVACUATE [10,8] - Reason: Proximity to QUAKE 
+EVACUATE [10,9] - Reason: Proximity to FLOOD 
+EVACUATE [10,10] - Reason: Proximity to HEAT 
+EVACUATE [10,11] - Reason: Proximity to HEAT 
+EVACUATE [11,0] - Reason: Proximity to HEAT 
+EVACUATE [11,2] - Reason: Proximity to HEAT 
+EVACUATE [11,3] - Reason: Proximity to QUAKE 
+EVACUATE [11,5] - Reason: Proximity to FLOOD 
+EVACUATE [11,8] - Reason: Proximity to QUAKE 
+EVACUATE [11,12] - Reason: Proximity to HEAT 
+EVACUATE [11,13] - Reason: Proximity to HEAT 
+EVACUATE [12,0] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [12,2] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [12,4] - Reason: Proximity to QUAKE 
+EVACUATE [12,6] - Reason: Proximity to FLOOD 
+EVACUATE [12,7] - Reason: Proximity to FLOOD 
+EVACUATE [12,8] - Reason: Proximity to HEAT 
+EVACUATE [12,9] - Reason: Proximity to HEAT 
+EVACUATE [12,10] - Reason: Proximity to HEAT 
+EVACUATE [13,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,6] - Reason: Proximity to HEAT 
+EVACUATE [13,11] - Reason: Proximity to HEAT 
+EVACUATE [13,12] - Reason: Proximity to HEAT 
+EVACUATE [13,13] - Reason: Proximity to HEAT 
+EVACUATE [14,4] - Reason: Proximity to FLOOD 
+EVACUATE [14,5] - Reason: Proximity to QUAKE 
+EVACUATE [13,8] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,9] - Reason: Proximity to HEAT 
+EVACUATE [14,9] - Reason: Proximity to HEAT 
+EVACUATE [14,12] - Reason: Proximity to QUAKE 
+
+[ DAY 19 ALERT ]
+EVACUATE [1,1] - Reason: Proximity to QUAKE 
+EVACUATE [0,0] - Reason: Proximity to QUAKE 
+EVACUATE [1,2] - Reason: Proximity to QUAKE 
+EVACUATE [0,3] - Reason: Proximity to HEAT 
+EVACUATE [1,5] - Reason: Proximity to FLOOD 
+EVACUATE [0,4] - Reason: Proximity to FLOOD 
+EVACUATE [1,6] - Reason: Proximity to FLOOD 
+EVACUATE [0,7] - Reason: Proximity to HEAT 
+EVACUATE [1,9] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,10] - Reason: Proximity to FLOOD 
+EVACUATE [0,12] - Reason: Proximity to FLOOD 
+EVACUATE [1,12] - Reason: Proximity to FLOOD 
+EVACUATE [1,13] - Reason: Proximity to QUAKE 
+EVACUATE [2,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,3] - Reason: Proximity to QUAKE 
+EVACUATE [2,4] - Reason: Proximity to QUAKE 
+EVACUATE [2,7] - Reason: Proximity to QUAKE 
+EVACUATE [2,9] - Reason: Proximity to FLOOD 
+EVACUATE [2,11] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,10] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,14] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,13] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [3,1] - Reason: Proximity to QUAKE 
+EVACUATE [3,8] - Reason: Proximity to QUAKE 
+EVACUATE [3,12] - Reason: Proximity to QUAKE 
+EVACUATE [3,11] - Reason: Proximity to QUAKE 
+EVACUATE [4,2] - Reason: Proximity to QUAKE 
+EVACUATE [4,3] - Reason: Proximity to QUAKE 
+EVACUATE [4,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [4,6] - Reason: Proximity to FLOOD 
+EVACUATE [4,7] - Reason: Proximity to QUAKE 
+EVACUATE [4,8] - Reason: Proximity to QUAKE 
+EVACUATE [3,10] - Reason: Proximity to QUAKE 
+EVACUATE [4,10] - Reason: Proximity to QUAKE 
+EVACUATE [3,14] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,2] - Reason: Proximity to HEAT 
+EVACUATE [5,4] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,6] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,8] - Reason: Proximity to FLOOD 
+EVACUATE [5,10] - Reason: Proximity to FLOOD 
+EVACUATE [5,11] - Reason: Proximity to QUAKE 
+EVACUATE [5,13] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [6,0] - Reason: Proximity to HEAT 
+EVACUATE [6,1] - Reason: Proximity to HEAT 
+EVACUATE [6,5] - Reason: Proximity to HEAT 
+EVACUATE [6,8] - Reason: Proximity to QUAKE 
+EVACUATE [6,10] - Reason: Proximity to HEAT 
+EVACUATE [6,12] - Reason: Proximity to HEAT 
+EVACUATE [6,11] - Reason: Proximity to HEAT 
+EVACUATE [6,13] - Reason: Proximity to HEAT 
+EVACUATE [6,14] - Reason: Proximity to FLOOD 
+EVACUATE [5,3] - Reason: Proximity to HEAT 
+EVACUATE [7,3] - Reason: Proximity to HEAT 
+EVACUATE [6,2] - Reason: Proximity to HEAT 
+EVACUATE [7,2] - Reason: Proximity to HEAT 
+EVACUATE [7,4] - Reason: Proximity to HEAT 
+EVACUATE [7,5] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,6] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,10] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [8,0] - Reason: Proximity to HEAT 
+EVACUATE [8,10] - Reason: Proximity to HEAT 
+EVACUATE [8,12] - Reason: Proximity to QUAKE 
+EVACUATE [7,13] - Reason: Proximity to FLOOD 
+EVACUATE [9,2] - Reason: Proximity to FLOOD 
+EVACUATE [9,4] - Reason: Proximity to HEAT 
+EVACUATE [9,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [9,7] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [9,10] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [9,13] - Reason: Proximity to QUAKE 
+EVACUATE [8,14] - Reason: Proximity to QUAKE 
+EVACUATE [7,14] - Reason: Proximity to QUAKE 
+EVACUATE [10,0] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [10,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,3] - Reason: Proximity to HEAT 
+EVACUATE [10,5] - Reason: Proximity to FLOOD 
+EVACUATE [10,8] - Reason: Proximity to FLOOD 
+EVACUATE [10,9] - Reason: Proximity to FLOOD 
+EVACUATE [10,10] - Reason: Proximity to HEAT 
+EVACUATE [10,11] - Reason: Proximity to HEAT 
+EVACUATE [11,0] - Reason: Proximity to HEAT 
+EVACUATE [11,2] - Reason: Proximity to HEAT 
+EVACUATE [11,3] - Reason: Proximity to FLOOD 
+EVACUATE [11,5] - Reason: Proximity to FLOOD 
+EVACUATE [11,8] - Reason: Proximity to QUAKE 
+EVACUATE [11,12] - Reason: Proximity to HEAT 
+EVACUATE [11,13] - Reason: Proximity to HEAT 
+EVACUATE [12,0] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [12,2] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [12,4] - Reason: Proximity to QUAKE 
+EVACUATE [12,6] - Reason: Proximity to FLOOD 
+EVACUATE [12,7] - Reason: Proximity to FLOOD 
+EVACUATE [12,8] - Reason: Proximity to HEAT 
+EVACUATE [12,9] - Reason: Proximity to HEAT 
+EVACUATE [12,10] - Reason: Proximity to HEAT 
+EVACUATE [13,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,6] - Reason: Proximity to HEAT 
+EVACUATE [13,11] - Reason: Proximity to HEAT 
+EVACUATE [13,12] - Reason: Proximity to HEAT 
+EVACUATE [13,13] - Reason: Proximity to HEAT 
+EVACUATE [14,4] - Reason: Proximity to FLOOD 
+EVACUATE [14,5] - Reason: Proximity to QUAKE 
+EVACUATE [13,8] - Reason: Proximity to FLOOD 
+EVACUATE [13,9] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [14,9] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [14,12] - Reason: Proximity to QUAKE 
+
+[ DAY 20 ALERT ]
+EVACUATE [1,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,3] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,6] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [1,7] - Reason: Proximity to HEAT 
+EVACUATE [1,9] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,10] - Reason: Proximity to FLOOD 
+EVACUATE [0,13] - Reason: Proximity to QUAKE 
+EVACUATE [1,13] - Reason: Proximity to QUAKE 
+EVACUATE [0,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,3] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,4] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [2,8] - Reason: Proximity to FLOOD 
+EVACUATE [2,7] - Reason: Proximity to FLOOD 
+EVACUATE [2,9] - Reason: Proximity to FLOOD 
+EVACUATE [2,10] - Reason: Proximity to FLOOD 
+EVACUATE [0,11] - Reason: Proximity to FLOOD 
+EVACUATE [2,11] - Reason: Proximity to FLOOD 
+EVACUATE [1,12] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [0,12] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,14] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [2,13] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [3,2] - Reason: Proximity to QUAKE 
+EVACUATE [3,1] - Reason: Proximity to QUAKE 
+EVACUATE [3,12] - Reason: Proximity to QUAKE 
+EVACUATE [3,11] - Reason: Proximity to QUAKE 
+EVACUATE [4,6] - Reason: Proximity to FLOOD 
+EVACUATE [4,7] - Reason: Proximity to QUAKE 
+EVACUATE [3,8] - Reason: Proximity to QUAKE 
+EVACUATE [4,8] - Reason: Proximity to QUAKE 
+EVACUATE [3,10] - Reason: Proximity to QUAKE 
+EVACUATE [4,13] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [3,14] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,0] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,1] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,2] - Reason: Proximity to HEAT 
+EVACUATE [5,3] - Reason: Proximity to QUAKE 
+EVACUATE [5,6] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [5,8] - Reason: Proximity to FLOOD 
+EVACUATE [5,10] - Reason: Proximity to FLOOD 
+EVACUATE [5,11] - Reason: Proximity to FLOOD 
+EVACUATE [5,13] - Reason: Proximity to HEAT 
+EVACUATE [6,5] - Reason: Proximity to QUAKE 
+EVACUATE [6,8] - Reason: Proximity to QUAKE 
+EVACUATE [6,10] - Reason: Proximity to HEAT 
+EVACUATE [6,12] - Reason: Proximity to HEAT 
+EVACUATE [6,13] - Reason: Proximity to HEAT 
+EVACUATE [7,3] - Reason: Proximity to HEAT 
+EVACUATE [6,2] - Reason: Proximity to HEAT 
+EVACUATE [7,2] - Reason: Proximity to HEAT 
+EVACUATE [7,5] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,6] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [7,10] - Reason: Proximity to FLOOD 
+EVACUATE [7,14] - Reason: Proximity to QUAKE 
+EVACUATE [6,0] - Reason: Proximity to HEAT 
+EVACUATE [8,0] - Reason: Proximity to HEAT 
+EVACUATE [6,1] - Reason: Proximity to HEAT 
+EVACUATE [8,2] - Reason: Proximity to FLOOD 
+EVACUATE [8,3] - Reason: Proximity to FLOOD 
+EVACUATE [8,10] - Reason: Proximity to HEAT 
+EVACUATE [8,12] - Reason: Proximity to QUAKE 
+EVACUATE [8,14] - Reason: Proximity to HEAT 
+EVACUATE [9,2] - Reason: Proximity to FLOOD 
+EVACUATE [9,4] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [9,5] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [9,7] - Reason: Proximity to HEAT 
+EVACUATE [9,10] - Reason: Proximity to HEAT 
+EVACUATE [9,13] - Reason: Proximity to QUAKE 
+EVACUATE [10,0] - Reason: Proximity to FLOOD QUAKE 
+EVACUATE [10,2] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [10,3] - Reason: Proximity to HEAT 
+EVACUATE [10,5] - Reason: Proximity to FLOOD 
+EVACUATE [10,8] - Reason: Proximity to FLOOD 
+EVACUATE [10,9] - Reason: Proximity to FLOOD 
+EVACUATE [10,10] - Reason: Proximity to HEAT 
+EVACUATE [10,11] - Reason: Proximity to HEAT 
+EVACUATE [10,12] - Reason: Proximity to HEAT 
+EVACUATE [11,0] - Reason: Proximity to HEAT 
+EVACUATE [11,2] - Reason: Proximity to HEAT 
+EVACUATE [11,3] - Reason: Proximity to FLOOD 
+EVACUATE [11,5] - Reason: Proximity to FLOOD 
+EVACUATE [11,8] - Reason: Proximity to HEAT 
+EVACUATE [11,13] - Reason: Proximity to HEAT 
+EVACUATE [11,12] - Reason: Proximity to HEAT 
+EVACUATE [12,0] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [12,2] - Reason: Proximity to FLOOD HEAT QUAKE 
+EVACUATE [12,4] - Reason: Proximity to QUAKE 
+EVACUATE [12,6] - Reason: Proximity to FLOOD 
+EVACUATE [12,7] - Reason: Proximity to FLOOD 
+EVACUATE [12,8] - Reason: Proximity to HEAT 
+EVACUATE [12,10] - Reason: Proximity to HEAT 
+EVACUATE [12,13] - Reason: Proximity to FLOOD 
+EVACUATE [13,1] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,0] - Reason: Proximity to FLOOD HEAT 
+EVACUATE [13,6] - Reason: Proximity to HEAT 
+EVACUATE [13,9] - Reason: Proximity to HEAT 
+EVACUATE [13,8] - Reason: Proximity to HEAT 
+EVACUATE [13,11] - Reason: Proximity to HEAT 
+EVACUATE [13,12] - Reason: Proximity to HEAT 
+EVACUATE [14,2] - Reason: Proximity to QUAKE 
+EVACUATE [14,4] - Reason: Proximity to FLOOD 
+EVACUATE [14,5] - Reason: Proximity to QUAKE 
+EVACUATE [14,9] - Reason: Proximity to HEAT QUAKE 
+EVACUATE [14,12] - Reason: Proximity to HEAT 
+
+TOTAL EVACUATIONS ISSUED: 2156

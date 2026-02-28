@@ -1,1 +1,1 @@
-            // 1. Update Quake Logic
+                // Case: Middle of the map
