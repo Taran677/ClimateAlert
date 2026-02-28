@@ -3,7 +3,7 @@
 
 #include <vector>
 #include <string>
-
+#include <algorithm>
 #define STEPS 20
 #define GRIDWIDTH 15
 
